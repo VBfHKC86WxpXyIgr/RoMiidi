@@ -415,6 +415,7 @@ return {
 	"Slipknot - People Shit (Drum)",
 	"Slipknot - Psychosocial (Drum)",
 	"Slipknot - Psychosocial (ver 8 by Thaynan).mid",
+	"Slipknot - Purity",
 	"Slipknot - Scissors [MIDIfind.com]",
 	"Slipknot - Sic (Drum)",
 	"Slipknot - Spit It Out (Drum)",
