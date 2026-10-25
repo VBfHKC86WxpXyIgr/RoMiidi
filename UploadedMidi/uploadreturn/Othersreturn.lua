@@ -790,6 +790,7 @@ return {
 	"Rush E",
 	"Rush E (Impossible).Transformed",
 	"Rush E (MIDI) (SYNTHESIA)",
+	"RUSH E 10 [175,000 Notes+ 512 Keys} SCROLL IF IT LAGS",
 	"RUSH E 2 - Sheet Music Boss",
 	"RUSH E 2 CLEANED",
 	"Rush E 2 Playable 1.6",
