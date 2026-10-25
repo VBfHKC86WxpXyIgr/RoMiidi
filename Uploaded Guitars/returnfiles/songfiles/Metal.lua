@@ -358,6 +358,7 @@ return {
 	"Nightmare - Sarcorfago",
 	"Nightmare (Accurate) - Sarcofago",
 	"Nightmare 2",
+	"Nightmare 3",
 	"Nightmare Sarcofago Parte1",
 	"No-Tomorrow.Mid",
 	"Nocturnal Depression - Her Ghost Haunts These Walls",
