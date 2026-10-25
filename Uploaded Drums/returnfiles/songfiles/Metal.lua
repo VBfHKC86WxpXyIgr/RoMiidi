@@ -422,6 +422,7 @@ return {
 	"Slipknot - Spit It Out (Drum)",
 	"Slipknot - Surfacing (Drum)",
 	"Slipknot - Surfacing [MIDIfind.Com]",
+	"Slipknot - Unsainted",
 	"Slipknot - Vendetta",
 	"Slipknot - Vermilion Pt.1   WWW.MIDISFREE.COM",
 	"Slipknot - Wait And Bleed (13) [MIDIfind.Com]",
