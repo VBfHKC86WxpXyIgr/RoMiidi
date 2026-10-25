@@ -494,6 +494,7 @@ return {
 	"Tricks- Silly Fools",
 	"Tsuki (พระจันทร์) - LANDOKMAI",
 	"Two Door Cinema Club - Undercover Martyn",
+	"Type O Negative - I Dont Want To Be Me",
 	"Unknown - Redbone - Come And Get Your Love Fingerstyle",
 	"Unknown Artist - 2020 Sleeping Sheep",
 	"Unknown Artist - Steve Vai Vs Ralph Macchio Epic Guitar Battle",
