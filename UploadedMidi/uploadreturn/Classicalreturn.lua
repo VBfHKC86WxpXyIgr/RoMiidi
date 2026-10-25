@@ -330,6 +330,7 @@ return {
 	"SunKissed Lola - Pasilyo (Official Lyric Video)",
 	"Symphony 9 4 (C)Cvikl",
 	"Take-Me-Out-To-The-Ballgame",
+	"TalesWeaver - Third Run",
 	"Tarot Feast 1780242551896",
 	"Tau 3,2",
 	"Tau Ultra",
