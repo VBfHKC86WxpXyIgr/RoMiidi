@@ -792,4 +792,5 @@ return {
 	"Rush E",
 	"Rush E (Impossible).Transformed",
 	"Rush E (MIDI) (SYNTHESIA)",
+	"SHUCKS BUT THE SCALES ARE MUCH MORE DIFFICULT",
 }
