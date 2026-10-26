@@ -168,6 +168,7 @@ return {
 	"Steel Ball Run",
 	"Summer Pockets",
 	"Sword Art Online Medley HalcyonMusic",
+	"Tau 4 Audio",
 	"Tau Cash",
 	"The Amazing Digital Circus Theme (Carameii Ver.) Piano Sheet Piano Tutorial - 피아노섬 PIANOSUMM (192k)",
 	"Three Years Of Youth Overflowing %E2%80%93 Yoshimasa Terui",
