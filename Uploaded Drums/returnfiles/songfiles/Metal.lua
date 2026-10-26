@@ -216,6 +216,7 @@ return {
 	"Master of Puppets",
 	"Megadeth - Devils Island [MIDIfind.Com]",
 	"Megadeth - Holy Wars",
+	"Megadeth - Holy Wars (Songparts.Com)",
 	"Megadeth - Holy Wars The Punishment (Drum)",
 	"Megadeth - Holy Wars The Punishment Due (Drum Updated)",
 	"Megadeth - Holy Wars The Punishment Due [MIDIfind.Com]",
