@@ -495,6 +495,7 @@ return {
 	"Its Like Im Not Even Here (Unfinished And Very Bad)",
 	"Its Raining Tacos",
 	"Its Raining Tacos.Mid",
+	"Já Que Me Ensinou A Beber (VersãO V2)",
 	"Jackson Five I Want You Back",
 	"Jamiroquai Virtual Insanity",
 	"Jazz In Paris",
