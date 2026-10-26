@@ -222,6 +222,7 @@ return {
 	"Megadeth - Holy Wars The Punishment Due [MIDIfind.Com]",
 	"Megadeth - Peace Sells [MIDIfind.Com]",
 	"Megadeth - Symphony Of Destruction [MIDIfind.Com]",
+	"Megadeth - Take No Prisoners (Songparts.Com)",
 	"Megadeth - The Conjuring [MIDIfind.Com]",
 	"Megadeth - Tornado Of Souls (Drum)",
 	"Megadeth - Tornado Of Souls [MIDIfind.Com]",
