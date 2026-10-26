@@ -336,6 +336,7 @@ return {
 	"Paradox - Hot Season)",
 	"Paradox - Official MV",
 	"Paradox - Official MV-Drum Kit (1)",
+	"Paradox Only You -",
 	"Paramore - Ignorance Greed",
 	"Paramore - Ignorance Greed Guitar1",
 	"Paramore - Ignorance Greed Guitar2",
