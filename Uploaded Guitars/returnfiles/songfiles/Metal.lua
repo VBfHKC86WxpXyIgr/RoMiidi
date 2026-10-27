@@ -429,6 +429,7 @@ return {
 	"Serrana Solo",
 	"Silencer - Death Pierce Me [MIDIfind.Com]",
 	"Silencer - Sterile Nails And Thunderbowels [MIDIfind.Com]",
+	"Silverstein-Smile In Your Sleep-09-21-2026",
 	"Slayer - Angel Of Death (2) [MIDIfind.Com]",
 	"Slayer - Raining Blood [MIDIfind.Com]",
 	"Slayer - Raining Blood Altars Of Sacrifice Jesus Saves [MIDIfind.Com]",
