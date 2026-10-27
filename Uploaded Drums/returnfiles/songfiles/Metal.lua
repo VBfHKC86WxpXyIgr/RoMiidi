@@ -221,6 +221,7 @@ return {
 	"Megadeth - Holy Wars The Punishment Due (Drum Updated)",
 	"Megadeth - Holy Wars The Punishment Due [MIDIfind.Com]",
 	"Megadeth - Peace Sells [MIDIfind.Com]",
+	"Megadeth - Ride The Lightning (Songparts.Com)",
 	"Megadeth - Symphony Of Destruction [MIDIfind.Com]",
 	"Megadeth - Take No Prisoners (Songparts.Com)",
 	"Megadeth - The Conjuring [MIDIfind.Com]",
