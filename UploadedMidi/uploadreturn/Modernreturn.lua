@@ -246,6 +246,7 @@ return {
 	"Roommates - Malcolm Todd",
 	"Rush AREA 51 + Drums",
 	"Rush E – lyre only",
+	"RUSH E 2 Playable",
 	"Rush E Mobile",
 	"Rusino - Looping The Rooms (Piano Cover)",
 	"Sempurna By Andra And The Backbone",
