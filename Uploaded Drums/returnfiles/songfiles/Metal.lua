@@ -395,6 +395,7 @@ return {
 	"Sepultura - Roots Bloody Roots (Drums Only)",
 	"Sepultura - Slave New World (Drum)",
 	"Sepultura - Territory (Drum)",
+	"Silverstein-Smile In Your Sleep-09-21-2026",
 	"Skid Row - 18 And Life [MIDIfind.Com]",
 	"Slapshock - Direction [MIDIfind.com]",
 	"Slayer - Angel Of Death (2) [MIDIfind.Com]",
