@@ -720,6 +720,7 @@ return {
 	"P Do Pecado - Ao Vivo - Grupo Menos É Mais (Piano)",
 	"PANAGINIP - NICOLE Senti Piano Cover Clyde Pianist Trimmed By Jukeblocks Trimmed By Jukeblocks Converted By Jukeblocks",
 	"Panic! At The Disco - House Of Memories.Mid",
+	"Panic! At The Disco - I Write Sins Not Tragedies Cello",
 	"Panic! At The Disco - I Write Sins Not Tragedies Music Box",
 	"Panic! At The Disco - I Write Sins Not Tragedies Pizzicato Strings",
 	"Panic! At The Disco - Time To Dance Synth",
