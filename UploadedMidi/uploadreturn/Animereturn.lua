@@ -67,6 +67,7 @@ return {
 	"Eldoraudio-Hajime no Ippo  Knockout ED 1  Yuuzora no Kamihikouki  - Piano Tutorial MP3 160K ",
 	"Eldoraudio-Juan Arenosa - Ofelia  Official Music Video  - Juan Arenosa  128k  humanized",
 	"Elvis Presley - Can'T Help Falling In Love (Lyrics) 1764384130581",
+	"Every Day - Bo En",
 	"Fhana - Ai No Supreme",
 	"FháNa - 涙のパレード 映画小林さんちのメイドラゴン さみしがりやの竜オープニング主題歌",
 	"Fukashigi no Carte",
