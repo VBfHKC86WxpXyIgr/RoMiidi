@@ -232,6 +232,7 @@ return {
 	"Oasis - Wonderwall",
 	"Oasis-Dont Look Back In Anger",
 	"OASIS.Stand By Me",
+	"Panic! At The Disco - I Write Sins Not Tragedies Guitar",
 	"Panic! At The Disco - I Write Sins Not Tragedies Pizzicato Strings",
 	"Paramore - Misery Business [MIDIfind.Com]",
 	"Pearl Jam - Black (2) [MIDIfind.Com]",
