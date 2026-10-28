@@ -242,6 +242,7 @@ return {
 	"Offspring (The) - Pretty Fly For A White Guy [MIDIfind.Com]",
 	"Offspring (The) - The Kids Aren'T Alright [MIDIfind.Com]",
 	"Otherwise - Drum Solo",
+	"Panic! At The Disco - I Write Sins Not Tragedies Drums",
 	"Panic! At The Disco - Time To Dance",
 	"Paramore - Misery Business Drums",
 	"Paramore - Misery Business Mariachi Drums",
