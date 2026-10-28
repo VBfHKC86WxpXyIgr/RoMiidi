@@ -211,6 +211,7 @@ return {
 	"liebestraum",
 	"Liebestraum-S-541-No-3-In-A-Major-Liszt(BEST VERSION)",
 	"Liquid Smooth - Mitski",
+	"Liszt - Hungarian Rhapsody No. 6",
 	"Liszt Grandes Tudes De Paganini In A Minor Theme And Variations S No (BEST VERSION)",
 	"Liszt Hungarian Rhap 2(ULTRA HARD VERSION 1)",
 	"Little Red Riding Hood- Sergei Rachmaninoff (Finished)",
