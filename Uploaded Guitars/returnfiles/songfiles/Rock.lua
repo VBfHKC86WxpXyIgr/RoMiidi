@@ -222,6 +222,7 @@ return {
 	"Nirvana - The Man Who Sold The World Rhythm Guitar",
 	"Nirvana - Verse Chorus Verse (2) [MIDIfind.Com]",
 	"Nirvana - Very Ape Lead Guitar",
+	"Nirvana - Very Ape Rhythm Guitar",
 	"Nirvana - You Know You'Re Right [MIDIfind.Com]",
 	"NIRVANA.The Man Who Sold The World Tabo Version",
 	"Oasis - Cigarettes Alcohol [MIDIfind.Com]",
