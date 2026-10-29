@@ -398,6 +398,7 @@ return {
 	"GạT đI NướC MắT 2",
 	"GạT đI NướC MắT 3",
 	"Gdzie Jest Bialy Wegorz (Zejscie)",
+	"Geometry Dash - Amethyst - Geometry Dash",
 	"Geometry Dash - Defeated Circles",
 	"Ghé Qua",
 	"GHEN",
