@@ -227,6 +227,7 @@ return {
 	"Nirvana - The Man Who Sold The World",
 	"Nirvana - The Man Who Sold The World (Drum) 2",
 	"Nirvana - Verse Chorus Verse (2) [MIDIfind.Com]",
+	"Nirvana - Very Ape",
 	"NIRVANA.Smells Like Teen Spirit K",
 	"No Name 2",
 	"NOFX - Linoleum (Drum)",
