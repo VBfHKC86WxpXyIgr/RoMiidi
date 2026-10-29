@@ -309,6 +309,7 @@ return {
 	"The Haunted Youth-Teen Rebel (Rock Werchter 2026)-07-24-2026",
 	"THE KINKS.You Really Got Me K",
 	"The Offspring - Come Out And Play (Drum V2)",
+	"The Offspring - Pretty Fly",
 	"The White Stripes- Seven Nation Army (Drum)",
 	"The-Great-Southern-Trendkill",
 	"Tom-Sawyer-3",
