@@ -182,6 +182,7 @@ return {
 	"Nirvana - Endless Nameless Bass",
 	"Nirvana - Endless Nameless Guitar",
 	"Nirvana - Heart Shaped Box [MIDIfind.Com]",
+	"Nirvana - Heart-Shaped Box Bass",
 	"Nirvana - Heart-Shaped Box Lead Guitar",
 	"Nirvana - Heart-Shaped Box Rhythm Guitar",
 	"Nirvana - In Bloom (2) [MIDIfind.Com]",
