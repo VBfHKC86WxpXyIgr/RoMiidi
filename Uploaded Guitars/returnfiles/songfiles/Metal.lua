@@ -180,6 +180,7 @@ return {
 	"I N R L - Sarcofago",
 	"I'M Broken",
 	"Ilia Burzum",
+	"Inferia-Горизонт Событий-04-12-2026",
 	"Inhumane Harvest",
 	"Iron Maiden - Fear Of The Dark",
 	"Iron Maiden - Hallowed Be Thy Name",
