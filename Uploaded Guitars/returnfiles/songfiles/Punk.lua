@@ -145,6 +145,7 @@ return {
 	"The Aftermath",
 	"The Man Who Sold The World - Nirvana",
 	"The Offspring - Pretty Fly Lead Guitar",
+	"The Offspring - Pretty Fly Rhythm Guitar",
 	"Tim Maia - Azul Da Cor Do Mar WWW.MIDISFREE.COM",
 	"Tourettes - Nirvana Tourettes - Nirvana Drum Sheet Music",
 	"Where Did You Sleep Last Night - Nirvana",
