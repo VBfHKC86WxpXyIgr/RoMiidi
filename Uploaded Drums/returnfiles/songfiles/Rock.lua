@@ -199,6 +199,7 @@ return {
 	"Nirvana - Endless, Nameless (Songparts.Com)",
 	"Nirvana - Floyd The Barber (Drums)",
 	"Nirvana - Heart Shaped Box [MIDIfind.Com]",
+	"Nirvana - Heart-Shaped Box Drums",
 	"Nirvana - In Bloom (2) [MIDIfind.Com]",
 	"Nirvana - In Bloom [MIDIfind.Com]",
 	"Nirvana - In Bloom Drums",
