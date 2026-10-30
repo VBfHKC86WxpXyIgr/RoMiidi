@@ -806,6 +806,7 @@ return {
 	"SHUCKS BUT THE SCALES ARE MORE DIFFICULT",
 	"SHUCKS BUT THE SCALES ARE MUCH MORE DIFFICULT",
 	"TAU 100 LAYOUT",
+	"Ttbf1",
 	"Xtayalive Prod. 9lives VLH",
 	"Yara Yara Ya Phonk (BEST VERSION)",
 }
