@@ -33,6 +33,7 @@ return {
 	"Green Day - Holiday Jason White",
 	"Green Day - Homecoming [MIDIfind.Com]",
 	"Green Day - Jesus Of Suburbia (2) [MIDIfind.Com]",
+	"Green Day - Jesus Of Suburbia Billie Joe",
 	"Green Day - Last Night On Earth",
 	"Green Day - Letterbomb [MIDIfind.Com]",
 	"Green Day - LetterBomb Billie Joe",
