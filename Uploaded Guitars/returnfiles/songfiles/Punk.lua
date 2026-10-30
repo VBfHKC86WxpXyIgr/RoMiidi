@@ -32,6 +32,7 @@ return {
 	"Green Day - Jesus Of Suburbia (2) [MIDIfind.Com]",
 	"Green Day - Last Night On Earth",
 	"Green Day - Letterbomb [MIDIfind.Com]",
+	"Green Day - LetterBomb Billie Joe",
 	"Green Day - Longview [MIDIfind.Com]",
 	"Green Day - Longview Bass",
 	"Green Day - Longview Guitar",
