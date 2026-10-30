@@ -33,6 +33,7 @@ return {
 	"Green Day - Last Night On Earth",
 	"Green Day - Letterbomb [MIDIfind.Com]",
 	"Green Day - LetterBomb Billie Joe",
+	"Green Day - LetterBomb Jason White",
 	"Green Day - Longview [MIDIfind.Com]",
 	"Green Day - Longview Bass",
 	"Green Day - Longview Guitar",
