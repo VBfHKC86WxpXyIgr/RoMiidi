@@ -168,6 +168,7 @@ return {
 	"My Chemical Romance - Demolition Lovers (Songparts.Com)",
 	"My Chemical Romance - Demolition Lovers Drums",
 	"My Chemical Romance - Drowning Lessons",
+	"My Chemical Romance - Famous Last Words (Drum)",
 	"My Chemical Romance - Give Em Hell Kid [MIDIfind.Com]",
 	"My Chemical Romance - Hang 'Em High",
 	"My Chemical Romance - Helena",
