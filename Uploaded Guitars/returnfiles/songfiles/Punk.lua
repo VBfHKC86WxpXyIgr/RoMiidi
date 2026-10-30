@@ -14,6 +14,7 @@ return {
 	"Green Day - American Eulogy [MIDIfind.Com]",
 	"Green Day - American Idiot (2) [MIDIfind.Com]",
 	"Green Day - American Idiot Billie Joe",
+	"Green Day - American Idiot Jason White",
 	"Green Day - Are We The Waiting [MIDIfind.Com]",
 	"Green Day - Basket Case [MIDIfind.Com]",
 	"Green Day - Boulevard Of Broken Dreams [MIDIfind.Com]",
