@@ -105,6 +105,7 @@ return {
 	"Gorillaz - Clint Eastwood (Drum)",
 	"Gorillaz - Feel Good Inc (Drum)",
 	"Green Day - American Eulogy [MIDIfind.Com]",
+	"Green Day - American Idiot",
 	"Green Day - Basket Case (Drum)",
 	"Green Day - Basket Case [MIDIfind.Com]",
 	"Green Day - Boulevard Of Broken Dreams",
