@@ -35,6 +35,7 @@ return {
 	"Green Day - Jesus Of Suburbia (2) [MIDIfind.Com]",
 	"Green Day - Jesus Of Suburbia Billie Joe",
 	"Green Day - Jesus Of Suburbia Jason White",
+	"Green Day - Jesus Of Suburbia Mike Dirnt Bass",
 	"Green Day - Last Night On Earth",
 	"Green Day - Letterbomb [MIDIfind.Com]",
 	"Green Day - LetterBomb Billie Joe",
