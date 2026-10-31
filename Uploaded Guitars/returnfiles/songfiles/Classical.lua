@@ -8,6 +8,7 @@ return {
 	"Fall Of Troy (The) - F.C.P.R.E.M.I.X-1",
 	"FrankSinatra My Way",
 	"Mangu - Guitar",
+	"Rammstein - Deutschland (5) [MIDIfind.Com]",
 	"Someone Like You (Easy Piano)",
 	"The Great Strategy By Badliz KSB",
 }
