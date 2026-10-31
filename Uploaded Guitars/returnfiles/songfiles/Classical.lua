@@ -10,6 +10,7 @@ return {
 	"Mangu - Guitar",
 	"Rammstein - Deutschland (5) [MIDIfind.Com]",
 	"Rammstein - Feuer Frei [MIDIfind.Com]",
+	"Rammstein - Sonne [MIDIfind.Com] (1)",
 	"Someone Like You (Easy Piano)",
 	"The Great Strategy By Badliz KSB",
 }
