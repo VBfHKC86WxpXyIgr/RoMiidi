@@ -279,6 +279,7 @@ return {
 	"Rachmaninoff - Piano Concerto No 2 (Op 18) - 2nd Mvmt - Piano Solo",
 	"Rachmaninov 57525a Prelude (Nc)Smythe",
 	"Radiohead - No Surprises (Piano Cover)( Z Qlo23fdAY )",
+	"Rammstein - Deutschland (5) [MIDIfind.Com]",
 	"Rasa-Ini-Vierra",
 	"Recep İVedik Duygusal Fon MüZiğI (Sensiz Olmaz)( YPRtYP8g40Y )",
 	"Red Alert - Soviet March Piano Version [MIDIfind.Com]",
