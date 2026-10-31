@@ -808,6 +808,7 @@ return {
 	"SHUCKS BUT THE SCALES ARE MUCH MORE DIFFICULT",
 	"Tau",
 	"TAU 100 LAYOUT",
+	"Teh Hijau Tulus Converted By Jukeblocks",
 	"Ttbf1",
 	"Unify",
 	"Xtayalive Prod. 9lives VLH",
