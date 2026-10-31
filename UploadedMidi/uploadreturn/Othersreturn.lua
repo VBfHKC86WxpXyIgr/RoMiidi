@@ -776,6 +776,7 @@ return {
 	"Radiohead - Kid A [MIDIfind.Com]",
 	"Radiohead - No Surprises",
 	"Rate+Lyrics+(1)",
+	"Rayuan-Perempuan-Gila-Nadin-Amizah",
 	"Really I Love You",
 	"Rebzyyx - All I Want Is You",
 	"RecuéRdame - Walt Disney Corporation RecuéRdame (Lembre De Mim)",
