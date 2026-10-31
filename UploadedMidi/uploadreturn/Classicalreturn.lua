@@ -281,6 +281,7 @@ return {
 	"Radiohead - No Surprises (Piano Cover)( Z Qlo23fdAY )",
 	"Rammstein - Deutschland (5) [MIDIfind.Com]",
 	"Rammstein - Feuer Frei [MIDIfind.Com]",
+	"Rammstein - Sonne [MIDIfind.Com] (1)",
 	"Rasa-Ini-Vierra",
 	"Recep İVedik Duygusal Fon MüZiğI (Sensiz Olmaz)( YPRtYP8g40Y )",
 	"Red Alert - Soviet March Piano Version [MIDIfind.Com]",
