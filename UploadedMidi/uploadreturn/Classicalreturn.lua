@@ -301,6 +301,7 @@ return {
 	"Rush E 2",
 	"Rush E 2 Real Black MIDI!! HSR",
 	"Rush E 3",
+	"Rush E 3 Ending V2 WIP (2) (2) (1)",
 	"Rush E but its as difficult as humanly possible",
 	"Rush E Easy",
 	"RUSH E FINAL",
