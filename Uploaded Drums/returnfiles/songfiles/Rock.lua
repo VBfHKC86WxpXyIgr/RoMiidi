@@ -162,6 +162,7 @@ return {
 	"Me-Aaron Kitcher Double Kicks-04-17-2025",
 	"Megadeth - Peace Sells [MIDIfind.Com]",
 	"Metallica Enter Sandman",
+	"Misfits - Die Die My Darling [MIDIfind.Com]",
 	"Misfits - Last Caress [MIDIfind.Com]",
 	"Muse - Hysteria [MIDIfind.Com]",
 	"My Chemical Romance - Bury Me In Black",
