@@ -387,6 +387,7 @@ return {
 	"Rammstein - Sonne [MIDIfind.Com]",
 	"Ratt - Round And Round [MIDIfind.Com]",
 	"Revenga",
+	"Rings Of Saturn - Godless Times [MIDIfind.Com]",
 	"School - Nirvana School - Nirvana",
 	"Scorpions - No One Like You (2) [MIDIfind.Com]",
 	"Scorpions - Rock You Like A Hurricane [MIDIfind.Com]",
