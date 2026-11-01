@@ -234,6 +234,7 @@ return {
 	"Meshuggah - Bleed (Drum)",
 	"Meshuggah - Bleed (Songparts.Com)",
 	"Meshuggah- Bleed.mid",
+	"MeshuggahRationalGaze",
 	"Metallica - All Nightmare Long (Songparts.Com)",
 	"Metallica - Am I Evil [MIDIfind.Com]",
 	"Metallica - And Justice For All [MIDIfind.Com]",
