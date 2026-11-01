@@ -163,6 +163,7 @@ return {
 	"Hard Crying For Rain 美(BEST VERSION)",
 	"Harvey",
 	"Hasta La RaíZ",
+	"Hiiragi Magnetite & Kasane Teto - Tetoris [Black MIDI Audio]",
 	"Hino Nacional Brasileiro Em F Maior(BEST VERSION)",
 	"Hit The Road Jack - Fikram",
 	"Human-Nature (1)",
