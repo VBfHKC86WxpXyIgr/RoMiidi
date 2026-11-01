@@ -81,6 +81,7 @@ return {
 	"Chopin – Nocturne Op.9 No.2",
 	"chopin ballade 4 (c)lubetsky",
 	"Chopin Ballade3",
+	"Chopin Waltz Op 64 - Jay Chou",
 	"Chopin Waltz Op 64 ImprovisationSECRET(BEST VERSION)",
 	"Chopin Winter Wind Etude",
 	"Chopin-Ballade1",
