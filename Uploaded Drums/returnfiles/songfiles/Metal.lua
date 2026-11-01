@@ -402,6 +402,7 @@ return {
 	"Silverstein-Smile In Your Sleep-09-21-2026",
 	"Skid Row - 18 And Life [MIDIfind.Com]",
 	"Slapshock - Direction [MIDIfind.com]",
+	"Slaughter To Prevail - Bratva D&B",
 	"Slayer - Angel Of Death (2) [MIDIfind.Com]",
 	"Slayer - Angel Of Death (Drum)",
 	"Slayer - Raining Blood (Drum)",
