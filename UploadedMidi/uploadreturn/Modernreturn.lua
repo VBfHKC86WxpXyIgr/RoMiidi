@@ -227,6 +227,7 @@ return {
 	"Pachelbel Canon In D (Fast Easy Piano Version)",
 	"Palagi-Tj-Monterde-Palagi",
 	"PANAGINIP - NICOLE (Senti Piano Cover) Clyde Pianist Trimmed 0.00s-300",
+	"Panchiko - D E A T H M E T A L",
 	"Pasilyo - Sun Kissed Lola (Piano Cover)",
 	"Pasilyo - Sunkissed Lola (Piano)",
 	"Perfect - Ed Sheeran",
