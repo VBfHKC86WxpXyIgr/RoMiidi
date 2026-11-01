@@ -323,6 +323,7 @@ return {
 	"Undone (The Sweater Song) - Weezer (Sleezy)",
 	"Valve-Left 4 Dead 2 Horde Theme (Drum Solo)-06-22-2025",
 	"Van Halen - Ain'T Talkin Bout Love (2) [MIDIfind.Com]",
+	"Wave To Earth - Love",
 	"Weezer - Undone The Sweater Song (Drum)",
 	"Weezer - Undone the Sweater Song [MIDIfind.com]",
 	"Where Is My Mind - Pixies Where Is My Mind",
