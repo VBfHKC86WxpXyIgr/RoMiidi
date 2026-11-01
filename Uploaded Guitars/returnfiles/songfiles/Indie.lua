@@ -99,6 +99,7 @@ return {
 	"Trg2",
 	"Trg2 22",
 	"Vocals For Now Not Ever Motifs Live Bb",
+	"Wave To Earth - Love Bass",
 	"Wave To Earth - Love Lead Guitar",
 	"Wave To Earth - Love Rhythm Guitar",
 }
