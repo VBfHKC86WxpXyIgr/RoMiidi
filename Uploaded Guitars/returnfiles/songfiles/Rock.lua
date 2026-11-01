@@ -77,6 +77,7 @@ return {
 	"Guitar2 Remember Of Today Pergi Hilang",
 	"Guitarra Lead Annabel Alesana",
 	"Guns N Roses - Sweet Child O' Mine (Bass Only)",
+	"Hail To The King - Avenged Sevenfold (1)",
 	"Heart Shaped Box - Nirvana",
 	"Hendrix Jimi - All Along The Watchower [MIDIfind.Com]",
 	"Hendrix Jimi - Foxey Lady [MIDIfind.Com]",
