@@ -197,6 +197,7 @@ return {
 	"I Just Threw Out The Love Of My Dreams - Weezer",
 	"Iqro - Raim Laode",
 	"Iqro - Raim Laode Guitar",
+	"Jackson In The Valley",
 	"Jane! - The Long Faces",
 	"Jane! The Long Faces",
 	"Jindie - She Makes Me Wanna Die",
