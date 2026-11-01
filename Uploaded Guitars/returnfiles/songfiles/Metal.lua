@@ -35,6 +35,7 @@ return {
 	"Avenged Sevenfold - Clairvoyant Disease [MIDIfind.Com]",
 	"Avenged Sevenfold - Critical Acclaim [MIDIfind.Com]",
 	"Avenged Sevenfold - Dancing Dead Solo [MIDIfind.Com]",
+	"Avenged Sevenfold - Hail To The King",
 	"Avenged Sevenfold - Hail To The King Solo [MIDIfind.Com]",
 	"Avenged Sevenfold - M I A [MIDIfind.Com]",
 	"Avenged Sevenfold - Nightmare [MIDIfind.Com]",
