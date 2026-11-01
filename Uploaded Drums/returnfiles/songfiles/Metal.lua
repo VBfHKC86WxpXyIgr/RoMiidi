@@ -391,6 +391,7 @@ return {
 	"Scream",
 	"Sepultura - Arise (Drum)",
 	"Sepultura - Attitude (Drum)",
+	"Sepultura - Dead Embryonic Cells",
 	"Sepultura - Ratamahatta (Drum)",
 	"Sepultura - Refuse Resist (Drum)",
 	"Sepultura - Roots Bloody Roots (3) [MIDIfind.Com]",
