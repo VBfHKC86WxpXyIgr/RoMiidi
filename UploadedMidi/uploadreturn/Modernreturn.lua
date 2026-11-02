@@ -268,6 +268,7 @@ return {
 	"TaU THE SONG",
 	"Teen Suicide - No The Moon Piano Tutorial Converted By Jukeblocks",
 	"Tek It - Cafune",
+	"The Cranberries - Zombie Piano Cover By Riyandi Kusuma Converted By Jukeblocks",
 	"The Greatest Showman - Rewrite The Stars Piano Cover With Strings (With PIANO SHEETS)",
 	"THE ITCHYWORMS - Di Na Muli ( Extended Solo ) NNTranscription",
 	"The Mind Electric (MS)",
