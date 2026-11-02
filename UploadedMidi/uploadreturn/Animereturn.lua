@@ -171,6 +171,7 @@ return {
 	"Sword Art Online Medley HalcyonMusic",
 	"Tau 4 Audio",
 	"Tau Cash",
+	"Tengen-Toppa-Gurren-Lagann-Sorairo-Days.Mid",
 	"The Amazing Digital Circus Theme (Carameii Ver.) Piano Sheet Piano Tutorial - 피아노섬 PIANOSUMM (192k)",
 	"Three Years Of Youth Overflowing %E2%80%93 Yoshimasa Terui",
 	"Throughout heaven and earth, i alone am the honored one",
