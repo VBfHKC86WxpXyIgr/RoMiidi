@@ -164,6 +164,7 @@ return {
 	"Metallica Enter Sandman",
 	"Misfits - Die Die My Darling [MIDIfind.Com]",
 	"Misfits - Last Caress [MIDIfind.Com]",
+	"Motley Crue - Shout At The Devil (2) [MIDIfind.Com]",
 	"Muse - Hysteria [MIDIfind.Com]",
 	"My Chemical Romance - Bury Me In Black",
 	"My Chemical Romance - Dead!",
