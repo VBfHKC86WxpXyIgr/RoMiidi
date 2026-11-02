@@ -445,6 +445,7 @@ return {
 	"Slipknot - Vermilion Pt.1   WWW.MIDISFREE.COM",
 	"Slipknot - Wait And Bleed (13) [MIDIfind.Com]",
 	"Slipknot - Wait And Bleed (Drum)",
+	"Slipknot - Wait And Bleed Better",
 	"Slipknot - Wait And Bleed.mid",
 	"slipknot-sic",
 	"Slipknot-Snuff-Anonymous-20210724225809-nonstop2k.com",
