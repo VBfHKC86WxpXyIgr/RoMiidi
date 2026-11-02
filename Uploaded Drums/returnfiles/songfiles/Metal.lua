@@ -197,6 +197,7 @@ return {
 	"Korn - Blind (Better)",
 	"Korn - Blind (Drum)",
 	"Korn - Chi",
+	"Korn - Counting [MIDIfind.Com]",
 	"Korn - Daddy(1)   WWW.MIDISFREE.COM",
 	"Korn - Divine",
 	"Korn - Fake [MIDIfind.Com]",
