@@ -204,6 +204,7 @@ return {
 	"Korn - Freak On A Leash [MIDIfind.Com]",
 	"Korn - Good God (Drum)",
 	"Korn - Got The Life (Drum)",
+	"Korn - Here To Stay (4) [MIDIfind.Com]",
 	"Korn - It'S On [MIDIfind.Com]",
 	"Korn - Twist",
 	"KORN.Trash",
