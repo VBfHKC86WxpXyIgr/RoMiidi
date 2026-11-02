@@ -314,6 +314,7 @@ return {
 	"RUSH E FINAL",
 	"Rush E Real",
 	"RUSH E SMBs Version Pre-Remaster",
+	"RUSH E WITHOUT ANYTHING ELSE",
 	"Rush Of Life (BEST VERSION)",
 	"Sampai Jadi Debu - Banda Neira -Fikram",
 	"SAMSUNG Over The Horizon 2021 (1)",
