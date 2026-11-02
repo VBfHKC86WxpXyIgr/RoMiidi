@@ -207,6 +207,7 @@ return {
 	"Korn - Got The Life (Drum)",
 	"Korn - Here To Stay (4) [MIDIfind.Com]",
 	"Korn - It'S On [MIDIfind.Com]",
+	"Korn - Lies [MIDIfind.Com]",
 	"Korn - Twist",
 	"KORN.Trash",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
