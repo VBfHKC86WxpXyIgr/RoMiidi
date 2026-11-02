@@ -193,6 +193,7 @@ return {
 	"Merry Go Round Of Life (MS)",
 	"Mesmerizer (Midi)",
 	"Michael Jackson - Bad",
+	"Michael Jackson - Billie Jean",
 	"Michael Jackson - Don’T Stop Till You Get Enough",
 	"Michael Jackson - Smooth Criminal",
 	"Michael Jackson - Thriller",
