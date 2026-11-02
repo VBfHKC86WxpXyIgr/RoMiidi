@@ -805,6 +805,7 @@ return {
 	"Rush E",
 	"Rush E (Impossible).Transformed",
 	"Rush E (MIDI) (SYNTHESIA)",
+	"RUSH E In 1 Octave",
 	"Rush E No Muted Note",
 	"Rush Z 3X9-2",
 	"SHUCKS BUT THE SCALES ARE MORE DIFFICULT",
