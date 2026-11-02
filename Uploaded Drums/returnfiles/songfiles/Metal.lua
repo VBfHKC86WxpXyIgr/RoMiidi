@@ -204,6 +204,7 @@ return {
 	"Korn - Freak On A Leash [MIDIfind.Com]",
 	"Korn - Good God (Drum)",
 	"Korn - Got The Life (Drum)",
+	"Korn - It'S On [MIDIfind.Com]",
 	"Korn - Twist",
 	"KORN.Trash",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
