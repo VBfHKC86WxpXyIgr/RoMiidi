@@ -447,6 +447,7 @@ return {
 	"Slipknot - Wait And Bleed (Drum)",
 	"Slipknot - Wait And Bleed Better",
 	"Slipknot - Wait And Bleed.mid",
+	"Slipknot - Welcome [MIDIfind.Com]",
 	"slipknot-sic",
 	"Slipknot-Snuff-Anonymous-20210724225809-nonstop2k.com",
 	"So-Far-Away",
