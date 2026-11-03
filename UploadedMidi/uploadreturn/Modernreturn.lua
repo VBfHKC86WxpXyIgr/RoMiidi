@@ -97,6 +97,7 @@ return {
 	"Dracula - Tame Impala",
 	"Dream Sweet In Sea Major (MS)",
 	"Elektronomia - Sky High",
+	"Elliot James Reay - I Think They Call This Love",
 	"Elton John - I'm Still Standing (Expert)",
 	"End Of Beginning - Djo",
 	"Engravings-Ethan-Bortnick",
