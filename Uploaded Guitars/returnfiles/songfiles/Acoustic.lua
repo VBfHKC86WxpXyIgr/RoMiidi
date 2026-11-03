@@ -75,6 +75,7 @@ return {
 	"Bodyslam -Small Boat",
 	"Bodyslam -Yapid",
 	"Buddy Holly - Weezer",
+	"C.TRICK.I Want You To Want Me",
 	"Californication Greed Guitar1",
 	"Californication Greed Guitar2",
 	"Callalily - Magbalik (Lyrics) 1768700171923",
