@@ -7,6 +7,7 @@ return {
 	"Beethoven - Moonlight Sonata (3) [MIDIfind.Com]",
 	"Fall Of Troy (The) - F.C.P.R.E.M.I.X-1",
 	"FrankSinatra My Way",
+	"Giuliani Narcisse Op46",
 	"Mangu - Guitar",
 	"Rammstein - Deutschland (5) [MIDIfind.Com]",
 	"Rammstein - Feuer Frei [MIDIfind.Com]",
