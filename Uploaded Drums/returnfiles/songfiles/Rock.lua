@@ -4,6 +4,7 @@ return {
 	"3 Doors Down - Kryptonite (Drum)",
 	"4 Non Blondes - What'S Up (Drum)",
 	"505",
+	"505 - Arctic Monkeys",
 	"ACDC - It'S A Long Way To The Top If You Wanna Rock'N'Roll [MIDIfind.Com]",
 	"ACDC - Thats The Way I Wanna Rock'N'Roll [MIDIfind.Com]",
 	"ACDC - Thunderstruck (Drum)",
