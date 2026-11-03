@@ -38,6 +38,7 @@ return {
 	"Arabesque-in-E-Nr-1",
 	"Arithmophobia - Shapiano",
 	"AUD AP2420H",
+	"AUD CT0949",
 	"AUD DD1041",
 	"Award Tour - A Tribe Called Quest (Instrumental Loop ~ Final Version)",
 	"Baby - Justin Bieber",
