@@ -441,6 +441,7 @@ return {
 	"Slipknot - Surfacing (Drum)",
 	"Slipknot - Surfacing [MIDIfind.Com]",
 	"Slipknot - Surfacing BTR",
+	"Slipknot - The Blister Exists (5) [MIDIfind.Com]",
 	"Slipknot - Unsainted",
 	"Slipknot - Vendetta",
 	"Slipknot - Vermilion Pt.1   WWW.MIDISFREE.COM",
