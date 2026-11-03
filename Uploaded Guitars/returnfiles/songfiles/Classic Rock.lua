@@ -57,6 +57,7 @@ return {
 	"LastResort",
 	"Let It Happen - Tame Impala",
 	"Linkin Park - Numb",
+	"Long-Train-Running-(Full-Version)",
 	"Megadeth - Holy Wars The Punishment Due",
 	"Megalovania On Guitar",
 	"METALLICA.One",
