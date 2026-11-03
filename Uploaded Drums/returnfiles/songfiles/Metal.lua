@@ -418,6 +418,7 @@ return {
 	"Slayer - Raining Blood [MIDIfind.Com]",
 	"Slayer - Raining Blood Altars Of Sacrifice Jesus Saves [MIDIfind.Com]",
 	"Slayer - Seasons In The Abyss (Drum)",
+	"Slipknot - All Hope Is Gone (5) [MIDIfind.Com]",
 	"Slipknot - Before I Forget (Drum)",
 	"Slipknot - Before I Forget.drum midi",
 	"Slipknot - Dead Memories (5) [MIDIfind.com]",
