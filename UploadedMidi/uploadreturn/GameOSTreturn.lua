@@ -189,6 +189,7 @@ return {
 	"Schoolhouse Trouble Playable",
 	"Scizzle Aquatic Ambience Piano Tutorial Solo Arrangement",
 	"Shiawase Vip",
+	"Shiningmidi 36 1301696659",
 	"Silent Partner - Dog Park   Dog and Pony Show (from YouTube Audio Library)",
 	"Silent Partner - Sugar Zone (A1D3N93 Remix)",
 	"Sneaky Snitch - Kevin MacLeod",
