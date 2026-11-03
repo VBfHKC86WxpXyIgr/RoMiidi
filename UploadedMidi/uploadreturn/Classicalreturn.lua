@@ -383,6 +383,7 @@ return {
 	"Vivaldi - Winter",
 	"Vivaldi-Winter-Rousseau-Version-Original(BEST VERSION)",
 	"Waldstein 1",
+	"Waltz For The Dead Clown",
 	"Waltz Opus No In C Minor (BEST VERSION)",
 	"Waltz Opus No In D Major Minute Waltz (BEST VERSION)",
 	"Waves (BEST VERSION)",
