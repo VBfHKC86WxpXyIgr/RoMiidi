@@ -256,6 +256,7 @@ return {
 	"Should I Add More Instruments To This (MS - Prolly Fixed)",
 	"SHUCKS ENDING CUTCENE PIANO COVER",
 	"Someone Like You (Easy Piano)",
+	"Somewhere In Time Arrangement",
 	"Star Shopping Midi.Mid",
 	"Stephanie - Nafeeisboujee",
 	"Stephen Sanchez - Until I Found You",
