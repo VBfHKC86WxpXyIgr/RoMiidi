@@ -144,6 +144,7 @@ return {
 	"Fur Elise",
 	"Fur Elise (1)",
 	"Fur Elise Nightmare",
+	"Fusouka",
 	"G.F. Handel - Salmon",
 	"Galaxy Collapse (With Correct BPM)",
 	"GAYNOR.I Will Survive K",
