@@ -314,6 +314,7 @@ return {
 	"ĐườNg TôI Chở Em Về",
 	"ĐƯỜNG-TÔI-CHỞ-EM-VỀ",
 	"Earrings - Malcolm Todd (Piano)",
+	"Ed Sheeran - Shape Of You",
 	"EEEAAAOOO - Patricia Taxxon EEEAAAOOO",
 	"Eek",
 	"Eek!",
