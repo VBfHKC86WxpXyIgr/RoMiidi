@@ -75,6 +75,7 @@ return {
 	"Blue Bossa - Kenny Dorham(BEST VERSION)",
 	"Blue Hair - TV Girl",
 	"Blue Jeans",
+	"Bruno Mars -",
 	"Bunda By Melly Goeslaw - Fikram",
 	"Bunii - Amnesia Mp3pm Converted By Jukeblocks",
 	"Bunii - So Good Mp3pm Converted By Jukeblocks",
