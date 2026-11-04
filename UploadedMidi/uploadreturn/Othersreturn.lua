@@ -394,6 +394,7 @@ return {
 	"Freedom Dive - Xi (Japan) Freedom Dive (Impossible Version) (1)",
 	"FREEDOM DiVE FULL Ver Piano - Original Kbps Converted By Jukeblocks",
 	"Friqtao Huye",
+	"Fusouka",
 	"Galaxy Collapse - Kurokotei",
 	"Gangsta'S-Paradise-1",
 	"GáNh Mẹ",
