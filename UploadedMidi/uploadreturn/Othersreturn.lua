@@ -596,6 +596,7 @@ return {
 	"Mariah Carey - All I Want For Christmas Is You",
 	"Mariah Careymy All",
 	"Mario Medley - (Nintendo Medleys 1) ADDED SUPER MARIO ODYSSEY",
+	"Marshmello And Bastille - Happier",
 	"Master Of Puppets - Metallica",
 	"MấT KếT NốI",
 	"MặT TrờI CủA Em",
