@@ -4,6 +4,7 @@ return {
 	"1Love - Wave To Earth (웨이브 투 어스) (Piano)",
 	"40mp-Feat-Hatsune-Miku-Time-Machine-20220817174134-Nonstop2k.Com",
 	"755859db Reality Club - A Sorrowful Reunion (Guitar Cover)",
+	"ABBA - The Winner Takes It All",
 	"Bad Apple Full Version",
 	"Billie-Eilish-Bad-Guy-Anonymous-20220216212718-Nonstop2k.Com",
 	"Black Or White (Single Version)",
