@@ -96,6 +96,7 @@ return {
 	"Death - Crystal Mountain (Drum)",
 	"Death - Flesh And The Power It Holds [MIDIfind.Com]",
 	"Death - Left To Die (Drum)",
+	"Death Decline - Useless Sacrifice (Songparts.Com)",
 	"Decapitated - Spheres Of Madness (Songparts.Com)",
 	"Decease The Police(Full Version)",
 	"Deftones - 7 Words [MIDIfind.com]",
