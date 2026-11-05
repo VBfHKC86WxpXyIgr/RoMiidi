@@ -80,6 +80,7 @@ return {
 	"Chelsea Grin - Recreant [MIDIfind.Com]",
 	"Chevelle - Comfortable Liar [MIDIfind.Com]",
 	"Clown",
+	"Coal Chamber - Loco [MIDIfind.Com]",
 	"Contempt of Cop",
 	"Crucify Thy Infant",
 	"Cryptopsy - Back To The Worms (Drums)",
