@@ -2,6 +2,7 @@
 return {
 	"04-Hypnotize",
 	"Aerials(Fixed)",
+	"Coal Chamber - Loco [MIDIfind.Com]",
 	"Deftones - Be Quiet And Drive [MIDIfind.Com]",
 	"Deftones - Change In The House Of Flies [MIDIfind.Com]",
 	"Deftones - Engine Number (9) [MIDIfind.Com]",
