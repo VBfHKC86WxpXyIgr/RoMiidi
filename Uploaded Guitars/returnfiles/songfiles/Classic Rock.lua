@@ -8,6 +8,7 @@ return {
 	"And-Your-Bird-Can-Sing",
 	"AUD Lr0462",
 	"AUD NOY0290",
+	"B1CA3647-AC7F-4DDF-9376-B0763E931A9F",
 	"Beatles (The) - And I Love Her [MIDIfind.Com]",
 	"Beatles (The) - Dig A Pony [MIDIfind.Com]",
 	"Beatles (The) - Eleanor Rigby (2) [MIDIfind.Com]",
