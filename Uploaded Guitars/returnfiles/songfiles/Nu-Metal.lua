@@ -17,6 +17,7 @@ return {
 	"Korn - Blind",
 	"Korn - Falling Away From Me [MIDIfind.Com]",
 	"Korn - Freak On A Leash [MIDIfind.Com]",
+	"Korn-Did My Time",
 	"La Distancia Para Un Duelo",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
 	"Limp Bizkit - My Way",
