@@ -220,6 +220,7 @@ return {
 	"Limp Bizkit - Break Stuff (Drum)",
 	"Limp Bizkit - Just Like This (Drum)",
 	"Limp Bizkit - Nookie (Drum)",
+	"LIMP BIZKIT.Take A Look Around",
 	"Linkin Park - In The End (Drum)",
 	"Linkin Park - Numb [MIDIfind.Com]",
 	"Linkin Park - One Step Closer [MIDIfind.Com]",
