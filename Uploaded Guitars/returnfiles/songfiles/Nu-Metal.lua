@@ -21,6 +21,7 @@ return {
 	"La Distancia Para Un Duelo",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
 	"Limp Bizkit - My Way",
+	"LIMP BIZKIT.Take A Look Around",
 	"Linkin Park - Numb [MIDIfind.Com]",
 	"Linkin Park - One Step Closer [MIDIfind.Com]",
 	"Linkin Park - Papercut [MIDIfind.Com]",
