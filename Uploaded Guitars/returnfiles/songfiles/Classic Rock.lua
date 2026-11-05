@@ -102,6 +102,7 @@ return {
 	"THE KINKS.You Really Got Me K",
 	"Three Days Grace - Painkiller",
 	"Through The Fire And Flames - DragonForce (Complete, Virtuoso Version)",
+	"Transcription",
 	"Tuyo (Narcos Theme) - Rodrigo Amarante",
 	"Van Halen - Eruption",
 	"Wake Me Up When September Ends - Green Day (Guitar Tab Play-Along)",
