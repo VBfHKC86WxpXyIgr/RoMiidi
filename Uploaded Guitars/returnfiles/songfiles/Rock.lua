@@ -336,6 +336,7 @@ return {
 	"Weird Fishes Arpeggi - Radiohead Weird Fishes Arpeggi - Radiohead",
 	"Welcome To The Black Parade (Bass Only)",
 	"Welcome To The Jungle",
+	"Welcome-To-The-Jungle",
 	"What I'Ve Done - Linkin Park",
 	"Yara Yara Ya Phonk - Sua Amiga Eu Vou Pegar - MC Lan, MC WM SLOWED",
 	"YTDown",
