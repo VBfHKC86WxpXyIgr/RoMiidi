@@ -213,6 +213,7 @@ return {
 	"Korn - It'S On [MIDIfind.Com]",
 	"Korn - Lies [MIDIfind.Com]",
 	"Korn - Twist",
+	"Korn-Did My Time",
 	"Korn-Shoots-Ladders",
 	"KORN.Trash",
 	"Limp Bizkit - Break Stuff (2) [MIDIfind.Com]",
