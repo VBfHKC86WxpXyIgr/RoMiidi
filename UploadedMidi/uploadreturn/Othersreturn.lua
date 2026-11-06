@@ -820,6 +820,7 @@ return {
 	"Tau",
 	"TAU 100 LAYOUT",
 	"Teh Hijau Tulus Converted By Jukeblocks",
+	"The Beatles - Love You To Sitar",
 	"The Beatles - Something Organ",
 	"The Beatles - Something Strings",
 	"Ttbf1",
