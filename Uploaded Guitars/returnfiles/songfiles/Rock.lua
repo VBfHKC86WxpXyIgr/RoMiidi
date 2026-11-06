@@ -137,6 +137,7 @@ return {
 	"My Chemical Romance - Honey This Mirror Isn'T Big Enough For The Two Of Us Ray Toro",
 	"My Chemical Romance - I'M Not Okay (I Promise) Frank Iero",
 	"My Chemical Romance - I'M Not Okay (I Promise) Ray Toro",
+	"My Chemical Romance - I'M Not Okay Third Guitar",
 	"My Chemical Romance - I'M Not Okay(I Promise) Mikey Way Bass",
 	"My Chemical Romance - Na Na Na [MIDIfind.Com]",
 	"My Chemical Romance - Our Lady Of Sorrows Frank Iero",
