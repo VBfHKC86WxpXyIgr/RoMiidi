@@ -168,6 +168,7 @@ return {
 	"Hasta La RaíZ",
 	"Hatsune Miku - Ievan Polkka NUKE Ver",
 	"Hatsune Miku - Ievan Polkka Playable Ver",
+	"Hatsune Miku - Ievan Polkka Remastered",
 	"Hiiragi Magnetite & Kasane Teto - Tetoris [Black MIDI Audio]",
 	"Hino Nacional Brasileiro Em F Maior(BEST VERSION)",
 	"Hit The Road Jack - Fikram",
