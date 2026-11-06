@@ -95,6 +95,7 @@ return {
 	"The Beatles - Michelle Guitar Solo",
 	"The Beatles - Something George Harrison",
 	"The Beatles - Something John Lennon",
+	"The Beatles - Something Paul McCartney Bass",
 	"The Beatles - While My Guitar Gently Weeps Bass",
 	"The Beatles - While My Guitar Gently Weeps Eric Clapton",
 	"The Beatles - While My Guitar Gently Weeps George Harrison Guitar",
