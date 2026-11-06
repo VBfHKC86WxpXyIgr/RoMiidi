@@ -309,6 +309,7 @@ return {
 	"The Beatles - A Hard Day'S Night",
 	"The Beatles - And Your Bird Can Sing",
 	"The Beatles - Michelle",
+	"The Beatles - Something",
 	"The Beatles - While My Guitar Gently Weeps Drums",
 	"The Beatles & She Said She Said Drums",
 	"THE BEATLES.All My Loving",
