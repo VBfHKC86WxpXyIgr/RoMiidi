@@ -93,6 +93,7 @@ return {
 	"The Beatles - And Your Bird Can Sing Paul McCartney Bass",
 	"The Beatles - Michelle Bass",
 	"The Beatles - Michelle Guitar Solo",
+	"The Beatles - Something George Harrison",
 	"The Beatles - Something John Lennon",
 	"The Beatles - While My Guitar Gently Weeps Bass",
 	"The Beatles - While My Guitar Gently Weeps Eric Clapton",
