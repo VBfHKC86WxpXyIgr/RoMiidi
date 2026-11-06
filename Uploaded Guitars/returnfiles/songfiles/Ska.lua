@@ -1,5 +1,6 @@
 -- Auto-updated by the Cloudflare Worker on upload/delete
 return {
+	"100 Skyfall Guitar2 110bpm Em MIDI",
 	"1Karma Police - Radiohead, Thomas Yorke (Piano Solo)",
 	"1La Foule, Edith Piaf, Piano-Chant",
 	"1Robert Miles - Children",
