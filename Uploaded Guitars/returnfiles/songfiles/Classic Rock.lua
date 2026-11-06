@@ -88,6 +88,7 @@ return {
 	"Stationsquare-Ts",
 	"SurfinUSA",
 	"The Beatles - A Hard Day'S Night",
+	"The Beatles - And Your Bird Can Sing John Lennon",
 	"The Beatles - Michelle Bass",
 	"The Beatles - Michelle Guitar Solo",
 	"The Beatles - While My Guitar Gently Weeps Bass",
