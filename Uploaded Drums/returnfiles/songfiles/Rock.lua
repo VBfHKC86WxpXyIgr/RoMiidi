@@ -307,6 +307,7 @@ return {
 	"Symphony-Of-Destruction",
 	"The Avengers Theme Song (CHECK MY NEW VERSION)",
 	"The Beatles - A Hard Day'S Night",
+	"The Beatles - And Your Bird Can Sing",
 	"The Beatles - Michelle",
 	"The Beatles - While My Guitar Gently Weeps Drums",
 	"The Beatles & She Said She Said Drums",
