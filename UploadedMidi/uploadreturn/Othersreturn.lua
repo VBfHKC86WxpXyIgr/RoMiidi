@@ -821,6 +821,7 @@ return {
 	"TAU 100 LAYOUT",
 	"Teh Hijau Tulus Converted By Jukeblocks",
 	"The Beatles - Something Organ",
+	"The Beatles - Something Strings",
 	"Ttbf1",
 	"Unify",
 	"Xtayalive Prod. 9lives VLH",
