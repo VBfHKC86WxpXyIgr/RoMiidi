@@ -812,6 +812,7 @@ return {
 	"Rush C ZOTMIDI",
 	"Rush D HSR!",
 	"Rush E",
+	"RUSH E",
 	"Rush E (Impossible).Transformed",
 	"Rush E (MIDI) (SYNTHESIA)",
 	"RUSH E In 1 Octave",
