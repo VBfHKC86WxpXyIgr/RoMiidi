@@ -528,6 +528,7 @@ return {
 	"Without You Retrospect Guitar Greed",
 	"Wonder If You Care",
 	"Wonderless - Acoustic By Pierce The Veil",
+	"Worldstar Money (Interlude) [Full Song]",
 	"Xandulsbored - Stronger Than You Charas ResponseGenocide Remix",
 	"Yapid2 Greed Guitar1",
 	"Yapid2 Greed Guitar2",
