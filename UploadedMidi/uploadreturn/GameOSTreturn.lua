@@ -47,6 +47,7 @@ return {
 	"Calamity Mod OST DM DOKURO - UNIVERSAL COLLAPSE Piano Solo",
 	"Call Of Duty Black Ops Zombies",
 	"Cascade2",
+	"Casey Edwards - Bury The Light (From Devil May Cry 5 Special Edition)",
 	"Casey Edwards - Devil Trigger",
 	"Castle Vein - Ultrakill (1)",
 	"Color Your Night (Persona 3 Reload)",
