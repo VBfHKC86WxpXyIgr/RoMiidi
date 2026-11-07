@@ -118,6 +118,7 @@ return {
 	"Demetori - Grave Of Being Rhythm+Lead",
 	"Demetori - Jehovahs YaHVeH Rhythm",
 	"Demetori - Jehovahs YaHVeH Rhythm+Lead",
+	"Demetori - Native Faith Memory Of A Free Festival Rhythm+Lead",
 	"Dethklok - Thunderhorse [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
