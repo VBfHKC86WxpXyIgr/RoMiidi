@@ -221,6 +221,7 @@ return {
 	"Libet'S Delay The Caretaker Libet(BEST VERSION)",
 	"Liebesleid Loves (BEST VERSION)",
 	"liebestraum",
+	"Liebestraum S 541 No 3 In A♭ Major - Liszt",
 	"Liebestraum-S-541-No-3-In-A-Major-Liszt(BEST VERSION)",
 	"Liquid Smooth - Mitski",
 	"Liszt - Hungarian Rhapsody No. 6",
