@@ -338,6 +338,7 @@ return {
 	"Weird Fishes Arpeggi - Radiohead Weird Fishes Arpeggi - Radiohead",
 	"Welcome To The Black Parade (Bass Only)",
 	"Welcome To The Jungle",
+	"Welcome To The Jungle Izzy Only",
 	"Welcome-To-The-Jungle",
 	"WelcometotheJungleGunsnRoses",
 	"What I'Ve Done - Linkin Park",
