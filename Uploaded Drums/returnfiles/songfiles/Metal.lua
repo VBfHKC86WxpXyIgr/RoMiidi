@@ -109,6 +109,7 @@ return {
 	"Deftones - My Own Summer Shove It [MIDIfind.Com]",
 	"Deftones - One Weak [MIDIfind.com]",
 	"Deftones.Be Quiet And Drive Far Away",
+	"Demetori - Emotional Skyscraper Worlds End Drum",
 	"Dethklok - Thunderhorse [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Disasterpiece",
