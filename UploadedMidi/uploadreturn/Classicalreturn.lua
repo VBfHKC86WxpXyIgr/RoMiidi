@@ -433,6 +433,7 @@ return {
 	"ピアノ楽譜Montagem-Hikari--Bellyjayソロ中級朝の光の中で (1)",
 	"プロジェクト 34",
 	"兰亭序 (Lan đìNh Tự)",
+	"爵士标准曲 Autumn Leaves（秋叶）10种风格钢琴翻弹 JIMIN",
 	"钢琴曲Blue Bossa",
 	"魔理沙は大変なものを盗んでいきました",
 }
