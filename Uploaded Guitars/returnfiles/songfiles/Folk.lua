@@ -9,6 +9,7 @@ return {
 	"Dylan Bob - Like A Rolling Stone (2) [MIDIfind.Com]",
 	"Fallen Down But In Ragtime",
 	"Glitchtale Love - True LOVE",
+	"Hava Nagila Jew",
 	"House-Of-The-Rising-Sun-1.Mid",
 	"Huricane - Bob Dylan",
 	"Jazz In Paris",
