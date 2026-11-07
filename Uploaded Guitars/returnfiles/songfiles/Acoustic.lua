@@ -83,6 +83,7 @@ return {
 	"Can'T Help Falling In Love - Elvis Presley",
 	"Carabao -",
 	"Carabao Nang Yam",
+	"Casey Edwards - Bury The Light (From Devil May Cry 5 Special Edition)",
 	"Chainsmoker Cat - Opening FULL Nanmonee By Wasureranneyo",
 	"Chamber Of Reflection - Mac DeMarco",
 	"Chezile - Beanie",
