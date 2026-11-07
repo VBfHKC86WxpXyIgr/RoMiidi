@@ -256,6 +256,7 @@ return {
 	"Universal Collapse - DM DOKURO Wooper Universal Collapse",
 	"Uwa!! So Temperate♫ (UNDERTALE)",
 	"Valve HALF LIFE 2 OST (Www.Lightaudio.Ru)",
+	"Versus - Ultrakill",
 	"War Without Reason MIDI (1)",
 	"War Without Reason ULTRAKILL 7-4 By Strix",
 	"Water Godess Mitula",
