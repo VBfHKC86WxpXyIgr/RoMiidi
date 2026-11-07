@@ -115,6 +115,7 @@ return {
 	"Deftones - Knife Prty Rhythm Guitar",
 	"Delusions-Of-Saviour",
 	"Demetori - Grave Of Being Lead",
+	"Demetori - Grave Of Being Rhythm+Lead",
 	"Dethklok - Thunderhorse [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Dio Ronnie James - Holy Diver [MIDIfind.Com]",
