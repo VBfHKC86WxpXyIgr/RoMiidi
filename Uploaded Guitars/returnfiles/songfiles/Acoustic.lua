@@ -515,6 +515,7 @@ return {
 	"Veil LeadAndRTMUploadByGreed",
 	"Veil LeadUploadByGreed",
 	"Veil RTMUploadByGreed",
+	"Versus - Ultrakill",
 	"Voice - Bille Jean",
 	"Weezer Keaton Crackower - Say It Aint So Band Arrangement",
 	"Whirr - Leave",
