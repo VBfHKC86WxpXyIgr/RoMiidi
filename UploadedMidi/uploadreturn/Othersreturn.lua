@@ -444,6 +444,7 @@ return {
 	"Hasretinle Yandı GöNlüM",
 	"Hatsune Miku - Senbonzakura Mhxa",
 	"Hava Nagila",
+	"Hava Nagila Jew",
 	"Hava-Nagilah-Hava",
 	"HãY Trao Cho Anh",
 	"HãY Trao Cho Anh 2",
