@@ -110,6 +110,7 @@ return {
 	"Deftones - One Weak [MIDIfind.com]",
 	"Deftones.Be Quiet And Drive Far Away",
 	"Demetori - Emotional Skyscraper Worlds End Drum",
+	"Demetori - Jehovahs YaHVeH Drum",
 	"Dethklok - Thunderhorse [MIDIfind.Com]",
 	"Dimmu Borgir - Puritania [MIDIfind.Com]",
 	"Disasterpiece",
