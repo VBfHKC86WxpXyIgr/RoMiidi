@@ -50,6 +50,7 @@ return {
 	"Guitar2 Helena MCR",
 	"I Cant Handle Change - Roar",
 	"I'Ve Been So Sober",
+	"Impossible Solo Idk",
 	"In The End - Linkin Park",
 	"Insomniac",
 	"Is It Really You - Loathe",
