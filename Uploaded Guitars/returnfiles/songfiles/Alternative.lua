@@ -107,6 +107,7 @@ return {
 	"Why",
 	"Wonderless",
 	"Wonderless2",
+	"XD",
 	"ZuZ",
 	"くびをつるほうほう",
 }
