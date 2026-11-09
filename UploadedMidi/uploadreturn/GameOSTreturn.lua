@@ -266,6 +266,7 @@ return {
 	"Wet Hands (Minecraft)",
 	"When The Moon'S Reaching Out Stars (Persona 3 Reload)",
 	"Withered - Literally Every Fnf Mod Ever (Vs Bob Week) Piano Solo",
+	"XD",
 	"Your Reality",
 	"Zelda - Ocarina Of Time - Great Fairy Fountain",
 }
