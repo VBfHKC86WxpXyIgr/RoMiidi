@@ -766,6 +766,7 @@ return {
 	"Pixies - Where Is My Mind [MIDIfind.Com]",
 	"Play Date",
 	"PLEVNE MARŞI OSMAN PAŞA",
+	"Poison Tree",
 	"Polish Cow",
 	"Pop Goes The Weasel",
 	"Pork Soda",
