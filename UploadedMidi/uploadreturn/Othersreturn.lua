@@ -141,6 +141,7 @@ return {
 	"Bellaciao",
 	"Ben 10 Alien Force",
 	"Ben 10 Classic",
+	"Ben 10 Omniverse",
 	"BếN ThượNg HảI",
 	"Ben-Hala-Ruyada-Kisa-Versiyon",
 	"BEST PHONK SONGS EVER ON PIANO!",
