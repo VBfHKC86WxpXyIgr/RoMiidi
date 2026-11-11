@@ -464,6 +464,7 @@ return {
 	"Homage",
 	"HơN Cả YêU",
 	"Hungarian Rhapsody No 2",
+	"I Cant Handle Change - Roar",
 	"I Cant Take My Eye'S Of You Mhxa",
 	"I Do",
 	"I Do X Demons",
