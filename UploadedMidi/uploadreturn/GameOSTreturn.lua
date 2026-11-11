@@ -139,6 +139,7 @@ return {
 	"Lena Raine - Pigstep",
 	"Letitgo",
 	"Limbo",
+	"Live And Learn Sonic Adventure 2",
 	"Maplestory Ereve - Raindrop Flower",
 	"May This Moment Last Forever Midi",
 	"MEGALOVANIA - Toby Fox",
