@@ -139,6 +139,7 @@ return {
 	"Beethoven Virus 2 Player",
 	"Believer",
 	"Bellaciao",
+	"Ben 10 Alien Force",
 	"Ben 10 Classic",
 	"BếN ThượNg HảI",
 	"Ben-Hala-Ruyada-Kisa-Versiyon",
