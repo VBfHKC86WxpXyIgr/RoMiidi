@@ -22,6 +22,7 @@ return {
 	"It039s Raining Somewhere Else IYK",
 	"Its Going Down Now - Persona",
 	"Josh Hawke - Seisyun Complex",
+	"Live And Learn Sonic Adventure 2",
 	"Metro Exodus - A New Home (Guitar Cover) [MIDIfind.Com]",
 	"Metro Exodus - Race Against Fate (Fingerstyle) [MIDIfind.Com]",
 	"Metro Exodus - Theme From The Main Menu.Gtr",
