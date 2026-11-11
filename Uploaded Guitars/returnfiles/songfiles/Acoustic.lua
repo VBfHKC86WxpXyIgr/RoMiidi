@@ -185,6 +185,7 @@ return {
 	"Gto - GTO Opening 1 Drivers High",
 	"Guns N Roses - Sweet Child O Mine Greed Guitar1",
 	"Guns N Roses - Sweet Child O Mine Greed Guitar2",
+	"H.E.R. Ft. Daniel Caesar - Best Part - Solo - Ravel Falskhern",
 	"Have To Withdraw (1)",
 	"Hers - Harvey",
 	"Hers - What Once Was",
