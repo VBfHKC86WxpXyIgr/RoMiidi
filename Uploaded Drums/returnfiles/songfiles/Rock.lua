@@ -49,6 +49,7 @@ return {
 	"Blink-182 - Drum Solo (Rock)",
 	"Blink-182 - M+M’S (Drum)",
 	"Blink-182 - What'S My Age Again (Drum)",
+	"Blue Oyster Cult - Don'T Fear The Reaper [MIDIfind.Com]",
 	"Blur - Song 2 [MIDIfind.Com]",
 	"BoysDontCry",
 	"BreakStuff",
