@@ -41,6 +41,7 @@ return {
 	"Beatles All My Loving",
 	"Beatles Besame Mucho",
 	"Beatles It Wont Be Long",
+	"Beatles Take Good Care Of My Baby",
 	"Big Cheese - Nirvana",
 	"Blink-182 - Always 7",
 	"Blink-182 - Carousel (Drum)",
