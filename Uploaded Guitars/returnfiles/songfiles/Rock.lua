@@ -31,6 +31,7 @@ return {
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
 	"Back In Black Tabo Version 2",
 	"Back In Black Tabo Version Fix",
+	"Barbara-Ann",
 	"Bass Annabel Alesana Drop D",
 	"Bass My Hero FF",
 	"Bass Remenber Of Today Pergi Hilang",
