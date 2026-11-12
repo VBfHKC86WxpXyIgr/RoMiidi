@@ -125,6 +125,7 @@ return {
 	"MiConv.Com Asu No Yozora Shoukaihan (1)",
 	"Mrs GREEN APPLE - Inferno",
 	"Nana OST Omoide Hasegawa Tomoki",
+	"Naruto - Wind",
 	"Never Meant To Belong - Bleach",
 	"Never Meant To Belong (Bleach OST)",
 	"New Darling",
