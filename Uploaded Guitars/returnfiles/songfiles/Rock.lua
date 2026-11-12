@@ -43,6 +43,7 @@ return {
 	"Black Sabbath - Iron Man",
 	"Black Sabbath - Iron Man-Drum Kit",
 	"Black Sabbath - Paranoid [MIDIfind.Com]",
+	"Blue Oyster Cult - Don'T Fear The Reaper [MIDIfind.Com]",
 	"Blur - Song 2 [MIDIfind.Com]",
 	"Chamber Of Reflection - Mac DeMarcoBass",
 	"Chamber Of Reflection - Mac DeMarcoLead",
