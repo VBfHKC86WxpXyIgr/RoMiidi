@@ -281,6 +281,7 @@ return {
 	"Derinlerde Slowed",
 	"Derinlerde Slowed2",
 	"Despacito",
+	"Dewa 19 Kangen",
 	"Did I Tell U That I Miss U",
 	"Did I Tell U That I Miss U (Slowed And Reverb)",
 	"Diddy Heil Epstein 1784992602218",
