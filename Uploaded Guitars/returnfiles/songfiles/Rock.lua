@@ -34,6 +34,7 @@ return {
 	"Bass My Hero FF",
 	"Bass Remenber Of Today Pergi Hilang",
 	"Beatles It Wont Be Long",
+	"Beatles Take Good Care Of My Baby",
 	"Beggin-Maneskin.Mid",
 	"Bismarck - Sabaton Piano Arrangement",
 	"Black Rover - Black Clover (OP 3)",
