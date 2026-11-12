@@ -28,6 +28,7 @@ return {
 	"Avenged Sevenfold - Dear God [MIDIfind.Com]",
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
 	"Bad Religion - Change Of Ideas (Drum)",
+	"Barbara-Ann",
 	"Beatles (The) - And I Love Her [MIDIfind.Com]",
 	"Beatles (The) - Dig A Pony [MIDIfind.Com]",
 	"Beatles (The) - I Am The Walrus [MIDIfind.Com]",
