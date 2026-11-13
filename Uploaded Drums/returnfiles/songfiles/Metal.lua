@@ -160,6 +160,7 @@ return {
 	"Girlfriends - New Computers",
 	"Gojira - Flying Whales (Songparts.Com)",
 	"Gojira - Stranded (Songparts.Com)",
+	"Gojira-The Art Of Dying",
 	"GoodGod",
 	"Gorguts - Considered Dead (Songparts.Com)",
 	"Gorillaz - Feel Good Inc [MIDIfind.Com]",
