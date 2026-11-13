@@ -665,6 +665,7 @@ return {
 	"Muse - Hysteria [MIDIfind.Com]",
 	"Music Using Only Sounds From Windows XP & 98 ~ SomethingUnreal - Blacked By KF2015",
 	"Music Using Only Sounds From Windows XP & 98 ~ SomethingUnreal - Blacked By KF2015 (1)",
+	"Music Using Only Sounds From Windows XP And 98 (Piano Version)",
 	"MüSlüM GüRses Unutamadim",
 	"My Chemical Romance - Hang 'Em High Whistle",
 	"My Chemical Romance - I'M Not Okay Piano Interlude",
