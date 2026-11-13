@@ -520,6 +520,7 @@ return {
 	"ThunderStruck - ACDC",
 	"Tool - Lateralus (4) [MIDIfind.Com]",
 	"Tool - Parabol Parabola [MIDIfind.Com]",
+	"Tool- Pneuma (1)",
 	"Tourettes - Nirvana Tourettes - Nirvana Drum Sheet Music",
 	"Toxicity by System of a Down -- Version 4.2",
 	"Trapped Under Ice - Pleased To Meet You (Songparts.Com)",
