@@ -363,6 +363,7 @@ return {
 	"Tchaikovsky Nutcracker Suite Flowers 71a 8 (C)Kirschbaum",
 	"Teh Hijau - Tulus -Fikram",
 	"Tes Tes Tes",
+	"TETORIS HSR",
 	"Tetris Block Arts V4",
 	"The Amazing Digital Circus - Main Theme But Its By HANS ZIMMER EPIC VERSION (Your New Home) - Carameii (192k)",
 	"The Amazing Digital Circus - Main Theme But Its By HANS ZIMMER EPIC VERSION (Your New Home) - Carameii (192k) (1)",
