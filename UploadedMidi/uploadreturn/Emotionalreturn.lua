@@ -278,6 +278,7 @@ return {
 	"Liszt-Transcendental-Etude-No-5-Feux-Follets(BEST VERSION)",
 	"Loneliness By Decalius-07-04-2026",
 	"Long-Love-New",
+	"Los Vaguens -California",
 	"Lost Sky - Dreams Pt. II",
 	"Love Story  Taylor Swift 1775672226231",
 	"Love Story (HUMAN BEST VERSION)",
