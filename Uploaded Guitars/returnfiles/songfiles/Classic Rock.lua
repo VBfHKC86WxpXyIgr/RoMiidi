@@ -45,6 +45,7 @@ return {
 	"Fastest-Thing-Alive-Full-Version (1)",
 	"Fingerstyle",
 	"Foo Fighters - Everlong [MIDIfind.Com]",
+	"Funtwo - Canon - Funtwo (128k)",
 	"GOAT - Polyphia G O A T - Copy Mscz",
 	"Goo Goo Dolls-Iris",
 	"Guns N Roses - Sweet Child O Mine",
