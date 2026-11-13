@@ -780,6 +780,7 @@ return {
 	"Porque - Maldita Piano Cover By Gerard Chua",
 	"Powfu - Death Bed (Dustbunny Edits)",
 	"Prayer - Kendrick Lamar WIP",
+	"Prom Queen - Beach Bunny",
 	"Promise (Reprise) - Silent Hill 2 (Piano Cover)",
 	"Pumped Up Kicks 1789901520399",
 	"Pupsies - Misery Full Song",
