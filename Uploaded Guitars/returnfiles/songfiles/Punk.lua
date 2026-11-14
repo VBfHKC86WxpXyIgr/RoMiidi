@@ -18,6 +18,7 @@ return {
 	"Green Day - American Idiot Mike Dirnt Bass",
 	"Green Day - Are We The Waiting [MIDIfind.Com]",
 	"Green Day - Basket Case [MIDIfind.Com]",
+	"Green Day - Basket Case Billie Joe Armstrong",
 	"Green Day - Boulevard Of Broken Dreams [MIDIfind.Com]",
 	"Green Day - Boulevard Of Broken Dreams Bass",
 	"Green Day - Boulevard Of Broken Dreams Billie",
