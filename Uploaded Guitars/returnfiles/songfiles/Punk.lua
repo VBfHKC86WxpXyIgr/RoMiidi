@@ -46,6 +46,7 @@ return {
 	"Green Day - Longview [MIDIfind.Com]",
 	"Green Day - Longview Bass",
 	"Green Day - Longview Guitar",
+	"Green Day - Murder City Jason White",
 	"Green Day - No One Knows [MIDIfind.Com]",
 	"Green Day - One Eyed Bastard (SPOTISAVER)",
 	"Green Day - She'S A Rebel [MIDIfind.Com]",
