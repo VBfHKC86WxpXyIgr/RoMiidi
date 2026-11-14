@@ -502,6 +502,7 @@ return {
 	"Irida Opening Cutcene (1)",
 	"Irida V2",
 	"Irida V4 Cartoon",
+	"IRIDA V4 LYRICS Piano",
 	"Is It Really You - Loathe",
 	"It'S Me, It'S Verity - Horror Skunx",
 	"It'S Me, It'S Verity - Horror Skunx (1)",
