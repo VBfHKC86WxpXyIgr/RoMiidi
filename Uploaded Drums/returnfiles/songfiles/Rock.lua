@@ -132,6 +132,7 @@ return {
 	"Green Day - Longview",
 	"Green Day - Longview (Drum)",
 	"Green Day - Longview [MIDIfind.Com]",
+	"Green Day - Murder City",
 	"Green Day - No One Knows [MIDIfind.Com]",
 	"Green Day - One Eyed Bastard (SPOTISAVER)",
 	"Green Day - She (Drum)",
