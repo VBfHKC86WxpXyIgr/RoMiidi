@@ -241,6 +241,7 @@ return {
 	"Martin Tungevaag - Wicked Wonderland I Piano Tutorial By MLPC - My Little Piano Channel (192k)",
 	"Media Preview Over The Horizon 2021",
 	"Meganeko - Beethoven - Moonlight Sonata 3rd Movement",
+	"Melayu - Aku Cinta Padamu Versi Piano [MIDIfind.Com]",
 	"Melayu - Rindu Serindu Rindunya Spoon [MIDIfind.Com]",
 	"Melayu - Selamat Hari Raya [MIDIfind.Com]",
 	"Mephisto-Waltz-Nr-1",
