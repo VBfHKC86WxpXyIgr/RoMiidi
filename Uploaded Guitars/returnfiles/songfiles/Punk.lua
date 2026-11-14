@@ -48,6 +48,7 @@ return {
 	"Green Day - Longview Guitar",
 	"Green Day - Murder City Billie Joe Armstrong",
 	"Green Day - Murder City Jason White",
+	"Green Day - Murder City Mike Dirnt Bass",
 	"Green Day - No One Knows [MIDIfind.Com]",
 	"Green Day - One Eyed Bastard (SPOTISAVER)",
 	"Green Day - She'S A Rebel [MIDIfind.Com]",
