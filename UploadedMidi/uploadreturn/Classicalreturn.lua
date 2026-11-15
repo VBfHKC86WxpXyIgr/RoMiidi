@@ -161,6 +161,7 @@ return {
 	"Gugur Bunga Piano - Fikram",
 	"GymnopdieFantasie(BEST VERSION)",
 	"GymnopéDie No",
+	"HakikatSebuahCinta By IYYPANNSaranghae",
 	"Hakucyou",
 	"Handel, Halvorsen - Passacaglia",
 	"Handel, Halvorsen - Passacaglia.Mid",
