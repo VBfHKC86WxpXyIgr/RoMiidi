@@ -127,6 +127,7 @@ return {
 	"Hey There Delilah",
 	"Hillsong United - Oceans",
 	"Hillsong Worship - Broken Vessel (Amazing Grace)",
+	"Hiromi MR. C.C (Shorter)",
 	"Homesick - Wave To Earth (Piano)",
 	"How The World Works - Bo Burnham",
 	"I Need A New Beginnig - Ruiji",
