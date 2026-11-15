@@ -463,6 +463,7 @@ return {
 	"HIM - Gone With The Sin [MIDIfind.Com]",
 	"HIM - Join Me [MIDIfind.Com]",
 	"HINO DO CORINTHIANS",
+	"Hiromi MR. C.C (Shorter)",
 	"HọA TìNh",
 	"HoàNg HôN",
 	"HọC MèO KêU",
