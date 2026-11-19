@@ -16,6 +16,7 @@ return {
 	"Alice In Chains - Rotten Apple",
 	"Alice In Chains - Sludge Factory [MIDIfind.Com]",
 	"Alice In Chains - Would(3) [MIDIfind.Com]",
+	"ALICE IN CHAINS.Would",
 	"All-My-Loving-1",
 	"American Football - Never Meant",
 	"Animals (The) - The House Of The Rising Sun [MIDIfind.Com]",
