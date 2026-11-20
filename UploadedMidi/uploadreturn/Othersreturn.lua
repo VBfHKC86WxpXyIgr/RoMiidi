@@ -105,6 +105,7 @@ return {
 	"Avenged Sevenfold - A Little Piece Of Heaven (2) [MIDIfind.Com]",
 	"Azali - MECHANICAL GOD",
 	"ａᄉ 0 з н ａE ш ь ༂ぼくもリンゴジュース𓂃ඈ好きじゃない༲",
+	"B.E.R - The Night Begins To Shine",
 	"Back Number",
 	"Backrooms",
 	"Bad Apple",
