@@ -30,6 +30,7 @@ return {
 	"Avenged Sevenfold - Afterlife [Sky]",
 	"Avenged Sevenfold - Almost Easy [Sky]",
 	"Avenged Sevenfold - Seize The Day [MIDIfind.Com]",
+	"B.E.R - The Night Begins To Shine (WIP)",
 	"Back In Black Tabo Version 2",
 	"Back In Black Tabo Version Fix",
 	"Barbara-Ann",
