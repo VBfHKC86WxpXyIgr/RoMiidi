@@ -838,6 +838,7 @@ return {
 	"Rush Z 3X9-2",
 	"SHUCKS BUT THE SCALES ARE MORE DIFFICULT",
 	"SHUCKS BUT THE SCALES ARE MUCH MORE DIFFICULT",
+	"Solace - Txmy",
 	"Tau",
 	"TAU 100 LAYOUT",
 	"Teh Hijau Tulus Converted By Jukeblocks",
