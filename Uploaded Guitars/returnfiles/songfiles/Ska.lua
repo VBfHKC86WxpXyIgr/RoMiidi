@@ -44,6 +44,7 @@ return {
 	"Harry Potter - Hedwig'S Theme - Octet - Kino Geno",
 	"HãY Trao Cho Anh",
 	"Hollywoods Bleeding",
+	"Hollywoods Bleeding Post Malone",
 	"Hotel California - Eagles (Solo Guitar)",
 	"I Dont Wanna Be Me - Type O Negative",
 	"I Like Me Better - Lauv - Solo - Kenta Shiro",
