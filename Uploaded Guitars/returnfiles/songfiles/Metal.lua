@@ -483,6 +483,7 @@ return {
 	"Tool - Lateralus (4) [MIDIfind.Com]",
 	"Tool - Parabol Parabola [MIDIfind.Com]",
 	"Tool - Schism (3) [MIDIfind.Com]",
+	"Tool- Pneuma (1)",
 	"Toxic BoyWithUke",
 	"Toxicity - System Of A Down",
 	"Trilogy Suite Op 5 - Yngwie Malmsteen",
