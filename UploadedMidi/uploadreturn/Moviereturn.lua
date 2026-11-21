@@ -68,6 +68,7 @@ return {
 	"Happy-Birthday-To-You-4",
 	"Havana",
 	"Hazbin Hotel - Losin' Streak",
+	"Hollywoods Bleeding",
 	"HUNTRIX - GOLDEN From KPop Demon Hunters",
 	"I am still standing",
 	"I Like Me Better - Lauv - Solo - Kenta Shiro",
