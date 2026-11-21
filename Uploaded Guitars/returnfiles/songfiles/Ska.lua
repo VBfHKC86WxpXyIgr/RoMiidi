@@ -23,6 +23,7 @@ return {
 	"Canon In D For Guitar Solo",
 	"Celine Dion - My Heart Will Go On - Solo - Ravel Falskhern",
 	"Christina Perri - A Thousand Years - Solo - Debra VanHouten",
+	"Circles",
 	"Converted Sound Midi",
 	"Crayon Shin-Chan OP3「Ora Wa Ninkimono」",
 	"Cyberpunk Edgerunners - I Really Want To Stay At Your House - Solo - Nozomi Tenma",
