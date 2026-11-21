@@ -43,6 +43,7 @@ return {
 	"Gym Class Hero - Stereo Hearts - Solo - Ravel Falskhern",
 	"Harry Potter - Hedwig'S Theme - Octet - Kino Geno",
 	"HãY Trao Cho Anh",
+	"Hollywoods Bleeding",
 	"Hotel California - Eagles (Solo Guitar)",
 	"I Dont Wanna Be Me - Type O Negative",
 	"I Like Me Better - Lauv - Solo - Kenta Shiro",
