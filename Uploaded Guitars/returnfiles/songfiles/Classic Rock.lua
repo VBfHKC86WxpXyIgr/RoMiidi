@@ -104,6 +104,7 @@ return {
 	"THE BEATLES.Helter Skelter",
 	"THE BEATLES.Michelle K",
 	"THE BEATLES.Something K",
+	"The Clash - Should I Stay Or Should I Go",
 	"The Fall Of Troy - Fcpremix (Ver 4 By AmpleSteak).Mid",
 	"The Fall Of Troy - Fcpremix Nostalgia",
 	"THE KINKS.You Really Got Me K",
