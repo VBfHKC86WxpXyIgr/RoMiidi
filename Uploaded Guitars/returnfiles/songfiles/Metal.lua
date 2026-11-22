@@ -310,6 +310,7 @@ return {
 	"Metallica - Nothing Else Matters Whole Song Single Guitar [MIDIfind.Com]",
 	"Metallica - Of Wolf And Man (3) [MIDIfind.Com]",
 	"Metallica - One",
+	"Metallica - One (Solo)",
 	"Metallica - One [MIDIfind.Com]",
 	"Metallica - One Solo Played By David Escobar [MIDIfind.Com]",
 	"Metallica - Orion (Bass Riff) [MIDIfind.Com]",
