@@ -277,6 +277,7 @@ return {
 	"Mac Demarco - Freaking Out The Neighborhood",
 	"Mac Demarco - Freaking Out The Neighborhood (1)",
 	"Made In Thailand, Made In USA",
+	"Makyaj As Written",
 	"Malcolm Todd - Earrings For Band",
 	"Malcolm Todd - Roommates",
 	"Maroon 5 - This LoveGuitar1 Greed",
