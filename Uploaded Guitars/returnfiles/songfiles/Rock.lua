@@ -145,6 +145,7 @@ return {
 	"My Chemical Romance - Honey This Mirror Isn'T Big Enough For The Two Of Us Mikey Way Bass",
 	"My Chemical Romance - Honey This Mirror Isn'T Big Enough For The Two Of Us Ray Toro",
 	"My Chemical Romance - I Dont Love You Frank Iero",
+	"My Chemical Romance - I Dont Love You Mikey Way Bass",
 	"My Chemical Romance - I Dont Love You OverDub Guitar",
 	"My Chemical Romance - I Dont Love You Ray Toro",
 	"My Chemical Romance - I'M Not Okay (I Promise) Frank Iero",
