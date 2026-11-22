@@ -147,6 +147,7 @@ return {
 	"My Chemical Romance - I'M Not Okay (I Promise) Ray Toro",
 	"My Chemical Romance - I'M Not Okay Third Guitar",
 	"My Chemical Romance - I'M Not Okay(I Promise) Mikey Way Bass",
+	"My Chemical Romance - It'S Not A Fashion Statement, It'S A Deathwish Ray Toro",
 	"My Chemical Romance - Na Na Na [MIDIfind.Com]",
 	"My Chemical Romance - Our Lady Of Sorrows Frank Iero",
 	"My Chemical Romance - Our Lady Of Sorrows Mikey Way Bass",
