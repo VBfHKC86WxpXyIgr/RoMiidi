@@ -100,6 +100,7 @@ return {
 	"Judas Priest - You'Ve Got Another Thing Comin [MIDIfind.Com]",
 	"Kickstart My Heart (2024 Remaster) (1)",
 	"Kino-Blood Type Rhythm",
+	"KURBAN - Yalan [MIDIfind.Com]",
 	"LastResort",
 	"Layla - Derek And The Dominos Ft Eric Clapton",
 	"Layla (Unplugged) - Eric Clapton",
