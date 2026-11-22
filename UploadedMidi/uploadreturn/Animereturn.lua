@@ -55,6 +55,7 @@ return {
 	"Crayon Shin-Chan OP3「Ora Wa Ninkimono」",
 	"Cry Baby - Tokyo Revengers OP Mhxa",
 	"Dan Dan Kokoro Hikareteku (From Dragon Ball GT) Ver 2",
+	"Dark Aria - Solo Leveling - Midi By Tutogamer2a - Work In Progress (1)",
 	"Darling In The Night Seven Shadows The Eminence In Shadow ED TV Ver",
 	"DEAD OR LIE",
 	"Death Note OP1 - THE WORLD Mhxa",
