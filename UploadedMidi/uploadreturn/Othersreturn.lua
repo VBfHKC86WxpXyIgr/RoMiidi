@@ -851,6 +851,7 @@ return {
 	"The Beatles - Love You To Sitar",
 	"The Beatles - Something Organ",
 	"The Beatles - Something Strings",
+	"Torial - Botsu 8 -The Last Dance Song",
 	"Ttbf1",
 	"Unify",
 	"Untitled Mistfulplays Transcription",
