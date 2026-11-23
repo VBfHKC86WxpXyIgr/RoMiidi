@@ -647,6 +647,7 @@ return {
 	"Misery",
 	"Misery. - Pupsies",
 	"Miss You - Oliver Tree & Robin Schulz",
+	"Mistfulplays",
 	"Mơ",
 	"Moira Dela Torre - Titibo-Tibo Mhxa",
 	"Monogolue As One",
