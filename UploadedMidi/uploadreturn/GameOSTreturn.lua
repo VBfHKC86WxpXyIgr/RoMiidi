@@ -211,6 +211,7 @@ return {
 	"Super Mario Bros - Main Theme",
 	"Super Mario World Castle Theme Kyle Landry",
 	"Super Smash Bros Brawl- Menu Theme",
+	"Susumu Hirasawa Parade Paprika Parade Susumu Hirasawa",
 	"Sweden (Minecraft)",
 	"Swift Strike",
 	"Target For Love - Lee Jin Ah & Mitsukiyo",
