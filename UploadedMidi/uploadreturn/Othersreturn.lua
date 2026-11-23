@@ -308,6 +308,7 @@ return {
 	"Dozers Domain - Grace OST",
 	"Dracula Theme 320k",
 	"Drowning Love - Chasing Kou Mhxa",
+	"Drowning Ultrapromax",
 	"Dù Cho TậN Thế",
 	"DueñOs Del Swing 2026-09-06 19-27-31",
 	"Dumbledore'S Farewell 1 -",
