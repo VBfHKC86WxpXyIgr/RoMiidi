@@ -431,6 +431,7 @@ return {
 	"Self Aware - Temper City (Piano)",
 	"Sesi Potret - Enau",
 	"Shiro Sagisu - Soundscape To Ardor [MIDIfind.Com]",
+	"Show Me The Sky(BEST VERSION)",
 	"SHUCKS EPIC",
 	"Sinking Town   沈める街 - Yoeko Kurahashi",
 	"Smashing Pumpkins - 1979",
