@@ -396,6 +396,7 @@ return {
 	"Radiohead - No Surprises",
 	"Radiohead - No Surprises (4) WWW.MIDISFREE.COM",
 	"Raindance - Dave, Tems (Piano)",
+	"Raindrop Waltz No 1 (BEST VERSION)",
 	"Rebzyyx - I'M So Fucked Up Please Help Me",
 	"Recuerdame - Coco Disney",
 	"Red Swan - Yoshiki(BEST VERSION)",
