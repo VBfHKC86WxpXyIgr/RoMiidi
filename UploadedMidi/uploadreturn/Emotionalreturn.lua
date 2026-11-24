@@ -523,6 +523,7 @@ return {
 	"Vocals For Now Not Ever Motifs Live Bb",
 	"Vocals THY-Teen Rebel LIVE V2",
 	"Wait For U",
+	"Waltz For The Dead Lover(BEST VERSION)",
 	"Waltz Of The Flowers Piano Arrangement (MEDIUM VERSION)",
 	"WARRIYO",
 	"Washing Machine Heart - Mitski",
