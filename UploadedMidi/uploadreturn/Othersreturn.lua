@@ -835,6 +835,7 @@ return {
 	"Rush C IMPOSSIBLE",
 	"Rush C ZOTMIDI",
 	"Rush D HSR!",
+	"Rush Digital Circus",
 	"Rush E",
 	"RUSH E",
 	"Rush E (Impossible).Transformed",
