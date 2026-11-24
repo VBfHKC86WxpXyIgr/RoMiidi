@@ -491,6 +491,7 @@ return {
 	"Time Travel Theme By Jay Chou From Secret Film (BEST VERSION)",
 	"Time Travel Theme Jay Chou Secret Ending (BEST Advanced Mode)",
 	"To You, At The End (BEST VERSION)",
+	"To You, At The End(BEST VERSION)",
 	"Tokyo Ghoul OP Unravel FB Piano Anime (BEST VERSION)",
 	"Tom Odell - Another Love",
 	"Tony Ann - Four Letters",
