@@ -249,6 +249,7 @@ return {
 	"Melayu - Aku Cinta Padamu Versi Piano [MIDIfind.Com]",
 	"Melayu - Rindu Serindu Rindunya Spoon [MIDIfind.Com]",
 	"Melayu - Selamat Hari Raya [MIDIfind.Com]",
+	"Melayu - Ulikmayang By IYYPANNSaranghae",
 	"Mephisto-Waltz-Nr-1",
 	"Merry Go Round (BEST VERSION HARD!)",
 	"Merry-Go-Round of Life  Animenz",
