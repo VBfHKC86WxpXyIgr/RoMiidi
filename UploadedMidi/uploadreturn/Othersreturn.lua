@@ -830,6 +830,7 @@ return {
 	"RPReplay Final1783229073.Mp3",
 	"Rude Buster - Deltarune (PIANO SOLO)",
 	"Rush A 2",
+	"Rush B",
 	"RUSH B (1)",
 	"Rush B But It'S Playable",
 	"Rush C IMPOSSIBLE",
