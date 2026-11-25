@@ -851,6 +851,7 @@ return {
 	"Rush Z 3X9-2",
 	"SHUCKS BUT THE SCALES ARE MORE DIFFICULT",
 	"SHUCKS BUT THE SCALES ARE MUCH MORE DIFFICULT",
+	"SMG4 Outro",
 	"Solace - Txmy",
 	"TalesWeaver OST - Second Run Mhxa",
 	"Tau",
