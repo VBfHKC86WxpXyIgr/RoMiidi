@@ -271,6 +271,7 @@ return {
 	"ĐảO NghịCh",
 	"đàO NươNg",
 	"Dark Is The Night WIP",
+	"Dark MIDI - Horror Skunx - It'S Me, It'S Verity (Fantacoil Edition)",
 	"Darkest Child - Kevin MacLeod",
 	"đáY BiểN",
 	"Dễ Thay đổI",
