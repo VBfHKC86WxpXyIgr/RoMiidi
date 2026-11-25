@@ -122,6 +122,7 @@ return {
 	"Etude In A Minor Op76 No.2(BEST ADVANCED VERSION)",
 	"Etude Op. 10 No. 2 Chromatique - Frederic Chopin (Finished)",
 	"Etude Op.10 No.1 Waterfall Chopin In C Major",
+	"ÉTude Opus 10 No 5 In G♭ Major",
 	"Etude-In-E-Minor-Opus-25-Nr-5",
 	"Evgeny Grinko - Valse( VYCOg-YglNM )",
 	"EvGeny Grinko-Valse",
