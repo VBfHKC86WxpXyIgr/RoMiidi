@@ -159,6 +159,7 @@ return {
 	"BóNg DáNg ThiêN ThầN",
 	"BóNg Lá RơI",
 	"Bonnies Lullaby (Piano Ver.)",
+	"Bring Me To Life",
 	"Brooklyn Baby - Lana Del Rey",
 	"Brooklyn Blood Pop - SYKO",
 	"Buck Owens Made In Japan",
