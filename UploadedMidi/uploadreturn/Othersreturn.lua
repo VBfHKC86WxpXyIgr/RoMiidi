@@ -808,6 +808,7 @@ return {
 	"Radiohead - Creep Converted By Jukeblocks",
 	"Radiohead - Kid A [MIDIfind.Com]",
 	"Radiohead - No Surprises",
+	"RADWIMPS - Dream Lantern Mhxa",
 	"Rate+Lyrics+(1)",
 	"Rayuan-Perempuan-Gila-Nadin-Amizah",
 	"Really I Love You",
