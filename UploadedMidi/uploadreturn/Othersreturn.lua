@@ -852,6 +852,7 @@ return {
 	"SHUCKS BUT THE SCALES ARE MORE DIFFICULT",
 	"SHUCKS BUT THE SCALES ARE MUCH MORE DIFFICULT",
 	"SMG4 Outro",
+	"Smg4 Outro Song 1636606 1.Mid",
 	"Solace - Txmy",
 	"TalesWeaver OST - Second Run Mhxa",
 	"Tau",
