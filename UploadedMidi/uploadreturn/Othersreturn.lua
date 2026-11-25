@@ -810,6 +810,7 @@ return {
 	"Radiohead - Kid A [MIDIfind.Com]",
 	"Radiohead - No Surprises",
 	"RADWIMPS - Dream Lantern Mhxa",
+	"RADWIMPS - Grand Escape Mhxa",
 	"Rate+Lyrics+(1)",
 	"Rayuan-Perempuan-Gila-Nadin-Amizah",
 	"Really I Love You",
