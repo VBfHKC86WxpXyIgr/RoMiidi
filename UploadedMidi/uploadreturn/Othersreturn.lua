@@ -847,6 +847,7 @@ return {
 	"SHUCKS BUT THE SCALES ARE MORE DIFFICULT",
 	"SHUCKS BUT THE SCALES ARE MUCH MORE DIFFICULT",
 	"Solace - Txmy",
+	"TalesWeaver OST - Second Run Mhxa",
 	"Tau",
 	"TAU 100 LAYOUT",
 	"Teh Hijau Tulus Converted By Jukeblocks",
