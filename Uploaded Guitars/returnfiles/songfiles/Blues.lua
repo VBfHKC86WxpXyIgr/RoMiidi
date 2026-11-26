@@ -3,6 +3,7 @@ return {
 	"1 V2 Main Serong By The Changcuters",
 	"1Juicebox By The Strokes",
 	"1Main Serong By The Changcuters",
+	"Ambient Classical Guitar",
 	"Boogie-Woogie-Blues",
 	"Brambles-Stickerbrush-Symphony-2-",
 	"Gigi D'Agostino - L'Amour Toujours (I'Ll Fly With You)",
