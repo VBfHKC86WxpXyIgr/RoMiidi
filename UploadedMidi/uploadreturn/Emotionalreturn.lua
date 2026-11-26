@@ -450,6 +450,7 @@ return {
 	"Stephen Sanchez - Until I Found You",
 	"Still Loving You (BEST VERSION)",
 	"Still With You - BTS Jungkook.Mid",
+	"Stray Kids - Stray Kids(BEST VERSION)",
 	"Stromae-Formidable",
 	"Studio Ghibli LoFi Piano (HUMAN BEST VERSION)",
 	"Succession Piano Version (BEST VERSION)",
