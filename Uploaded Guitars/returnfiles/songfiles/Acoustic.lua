@@ -168,6 +168,7 @@ return {
 	"Foo Fighters - Friend Of A Friend Guitar",
 	"Forwards",
 	"Forwards.Mp3",
+	"Frutiger Aero",
 	"Fullmetal Alchemist - Brotherhood - Opening Again",
 	"Fullmetal Alchemist - Brotherhood - Opening Again Greed Guitar1",
 	"Fullmetal Alchemist - Brotherhood - Opening Again Greed Guitar2",
