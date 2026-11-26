@@ -148,6 +148,7 @@ return {
 	"Green Dayst Jimmy",
 	"Guns N' Roses - Welcome To The Jungle",
 	"Heroes Main",
+	"HIM - Gone With The Sin Live At Rock Am Ring 2001",
 	"Hkmori - Anybody Can Find Love",
 	"Hkmori - Anybody Can Find Love (Except You.) [UNFINISHED] (Breakcore Drill 'N' Bass)",
 	"Hoobastank - The Reason (Drum)",
