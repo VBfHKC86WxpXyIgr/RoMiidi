@@ -293,6 +293,7 @@ return {
 	"Metallica - Motorbreath (2) [MIDIfind.Com]",
 	"Metallica - My Apocalypse [MIDIfind.Com]",
 	"Metallica - No Remorse [MIDIfind.Com]",
+	"Metallica - Of Wolf And Man",
 	"Metallica - One (Drum)",
 	"Metallica - One [MIDIfind.Com]",
 	"Metallica - Phantom Lord [MIDIfind.Com]",
