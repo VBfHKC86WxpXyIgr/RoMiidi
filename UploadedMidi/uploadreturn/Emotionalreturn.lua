@@ -196,6 +196,7 @@ return {
 	"I Miss You (Bogoshipda) - Kim Bum Soo 2 - Fikram",
 	"I Miss You Kim Bum Soo - Fikram",
 	"I Think About You Not Thinking About Me (BEST VERSION V2)",
+	"I Think About You Not Thinking About Me (BEST VERSION V3)",
 	"I Think About You Not Thinking About Me (BEST VERSION)",
 	"I Thought I Saw Face",
 	"I Thought I Saw Your Face Today - She Him LYRICS",
