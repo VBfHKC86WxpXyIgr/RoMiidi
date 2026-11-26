@@ -484,6 +484,7 @@ return {
 	"The Perfect Pair Beabadoobee For Solo Piano (BEST VERSION)",
 	"The Sound Of Rain (BigRicePiano).Mid",
 	"The Spruce, (Op 75 No 5BEST VERSION)",
+	"The Story Starts With A Girl(BEST VERSION)",
 	"The Stranglers - Golden Brown 2",
 	"The Swan Lake Suite (HUMAN BEST VERSION)",
 	"The World We Knew(BEST VERSION)",
