@@ -202,6 +202,7 @@ return {
 	"ChàNg Trai NăM ấY Ost",
 	"Charlies Inferno",
 	"Charlies Inferno Remix WIP",
+	"Chasing Kou - Drowning Love♡Original Arrangement.Mhxa (1)",
 	"ChạY Ngay đI",
 	"Cheri Cheri Lady",
 	"ChịU đựNg đủ RồI",
