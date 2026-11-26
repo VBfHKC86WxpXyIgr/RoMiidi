@@ -309,6 +309,7 @@ return {
 	"Metallica - No Remorse [MIDIfind.Com]",
 	"Metallica - Nothing Else Matters Whole Song Single Guitar [MIDIfind.Com]",
 	"Metallica - Of Wolf And Man (3) [MIDIfind.Com]",
+	"Metallica - Of Wolf And Man Clean Overdub",
 	"Metallica - Of Wolf And Man Kirk Hammett",
 	"Metallica - One",
 	"Metallica - One (Solo)",
