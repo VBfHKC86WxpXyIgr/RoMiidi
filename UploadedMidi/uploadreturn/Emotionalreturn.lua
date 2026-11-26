@@ -177,6 +177,7 @@ return {
 	"Her JVKE (BEST HUMAN VERSION)",
 	"Hibou-Eidolon-07-26-2026",
 	"High Above Austin Farwell(BEST VERSION)",
+	"HIM - Gone With The Sin Synth Warm Pad Live At Rock Am Ring 2001",
 	"HIM - Join Me Pianohekill [MIDIfind.Com]",
 	"Himno Nacional Argentino 🇦🇷",
 	"Honeymoon Un Deux Trois (BEST HUMAN VERSION)",
