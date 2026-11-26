@@ -38,6 +38,7 @@ return {
 	"Alan Walker - The Drum",
 	"Alan-Walker-The-Spectre-Anonymous-20200425083142-Nonstop2k.Com",
 	"ALL MY FELLAS 8FR",
+	"Ambient Classical Guitar",
 	"Ang Huling El Bimbo",
 	"Animal",
 	"Ao No Sumika (JJK T2 OP)",
