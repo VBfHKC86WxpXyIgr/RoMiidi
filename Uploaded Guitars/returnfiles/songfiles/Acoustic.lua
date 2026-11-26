@@ -24,6 +24,7 @@ return {
 	"Acrophobia - Penguin Villa",
 	"Ado - UnravelGreedGuitar1",
 	"Ado - UnravelGreedGuitar2",
+	"Ambient Classical Guitar",
 	"America - Ventura Highway",
 	"American Football - Never Meant (1)",
 	"Andra And The BackBone - Sempurna Lyre.Mid",
