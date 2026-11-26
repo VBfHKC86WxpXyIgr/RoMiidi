@@ -94,6 +94,7 @@ return {
 	"Heroes Del Silencio - Entre Dos Tierras Tabo Version",
 	"Heroes Main",
 	"Highway-To-Hell Tabo Version",
+	"HIM - Gone With The Sin Bass Live At Rock Am Ring 2001",
 	"HIM - Gone With The Sin Guitar Live At Rock Am Ring 2001",
 	"Hoobastank - The Reason (2) [MIDIfind.Com]",
 	"Idk",
