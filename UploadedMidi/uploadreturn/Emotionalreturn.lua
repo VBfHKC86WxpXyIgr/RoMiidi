@@ -548,6 +548,7 @@ return {
 	"XXXTentacion - Sad!",
 	"Yiruma - Maybe - Fikram",
 	"You'Re A Mean One Mr Grinch (Jazz BEST VERSION HARD)",
+	"You'Re Not Entitled To Love (BEST VERSION)",
 	"Young-Girl-A maybe more difficult",
 	"Your Love",
 	"Zach Templar - Missin Something Mp3pm Converted By Jukeblocks",
