@@ -129,6 +129,7 @@ return {
 	"Piano Exact Video Performance",
 	"Piano Transcription",
 	"Pirates of the Caribbean - He's a Pirate (3)",
+	"Pixies - Where Is My Mind",
 	"Post Malone Ft. Ty Dolla $Ign - Psycho - Solo - Ravel Falskhern",
 	"Ravyn Lenae - Love Me Not",
 	"Red Hot Chili Peppers - Snow Hey Oh [MIDIfind.Com]",
