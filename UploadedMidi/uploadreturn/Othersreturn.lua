@@ -456,6 +456,7 @@ return {
 	"Haru Haru",
 	"Hasan Ozsut - Night Sky Piano Cover By Sanzhar Smagulov",
 	"Hasretinle Yandı GöNlüM",
+	"Hatsune Miku - Senbonzakura - MASTERPIECE.Mhxa (1)",
 	"Hatsune Miku - Senbonzakura Mhxa",
 	"Hatsune Miku -Senbonzakura - MASTERPIECE Mhxa",
 	"Hava Nagila",
