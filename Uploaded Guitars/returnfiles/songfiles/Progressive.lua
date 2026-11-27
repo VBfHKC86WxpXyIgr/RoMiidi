@@ -3,6 +3,7 @@ return {
 	"1Caravan (From 'Whiplash')",
 	"1Is It Really You - Sleep Token, Loathe",
 	"1Misc - Sarah By Alex G",
+	"1misc Christmas Kids - R O A R",
 	"1misc Im So Fucked Up Please Help Me",
 	"1misc Its Like Im Not Even Here",
 	"1misc Pitiful Mthu",
