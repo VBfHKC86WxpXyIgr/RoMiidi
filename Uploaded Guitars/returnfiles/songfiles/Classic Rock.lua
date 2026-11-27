@@ -89,6 +89,7 @@ return {
 	"Stationsquare-Ts",
 	"SurfinUSA",
 	"The Beatles - A Hard Day'S Night",
+	"The Beatles - And Your Bird Can Sing Combined Guitar Parts",
 	"The Beatles - And Your Bird Can Sing George Harrison",
 	"The Beatles - And Your Bird Can Sing John Lennon",
 	"The Beatles - And Your Bird Can Sing Paul McCartney Bass",
