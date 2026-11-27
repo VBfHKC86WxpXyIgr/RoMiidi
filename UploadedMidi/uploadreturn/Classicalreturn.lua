@@ -255,6 +255,7 @@ return {
 	"Merry Go Round (BEST VERSION HARD!)",
 	"Merry-Go-Round of Life  Animenz",
 	"Mesmerizer",
+	"Mesmerizer Part 01",
 	"Michael Jackson Billie Jeann",
 	"MIDI File - Bruno Mars - Risk It All (Easy)",
 	"Midu Mountain333",
