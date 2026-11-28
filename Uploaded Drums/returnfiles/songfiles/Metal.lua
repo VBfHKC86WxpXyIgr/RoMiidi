@@ -385,6 +385,7 @@ return {
 	"Pantera - Strenght Beyond Strenght [MIDIfind.Com]",
 	"Pantera - This Love [MIDIfind.Com]",
 	"Pantera - Throes Of Rejection (Drum)",
+	"Pantera - Walk",
 	"Pantera - Walk (Drum Updated)",
 	"Pantera - Walk (Drum)",
 	"People=Shit- FlipgridJR",
