@@ -15,4 +15,5 @@ return {
 	"Someone Like You (Easy Piano)",
 	"Sonne Midicities Dot Com",
 	"The Great Strategy By Badliz KSB",
+	"ใจสั่งมา",
 }
