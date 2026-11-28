@@ -411,6 +411,7 @@ return {
 	"Pantera - This Love [MIDIfind.Com]",
 	"Pantera - Walk (3)",
 	"Pantera - Walk Guitar",
+	"Pantera - Walk Overdub Guitar",
 	"Pantera-Hollow",
 	"People = Shit - Slipknot",
 	"Phobophile",
