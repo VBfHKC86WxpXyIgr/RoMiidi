@@ -873,4 +873,5 @@ return {
 	"Wyw My Sweetie",
 	"Xtayalive Prod. 9lives VLH",
 	"Yara Yara Ya Phonk (BEST VERSION)",
+	"ใจสั่งมา",
 }
