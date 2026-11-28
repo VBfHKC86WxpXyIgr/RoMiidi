@@ -410,6 +410,7 @@ return {
 	"Pantera - The Art Of Shredding",
 	"Pantera - This Love [MIDIfind.Com]",
 	"Pantera - Walk (3)",
+	"Pantera - Walk Bass",
 	"Pantera - Walk Guitar",
 	"Pantera - Walk Overdub Guitar",
 	"Pantera-Hollow",
